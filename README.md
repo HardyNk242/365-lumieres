@@ -85,4 +85,18 @@ Application React (Vite + TypeScript, classes Tailwind) pour un plan de lecture 
 - Overlays : `bg-slate-900/40` pour le fond, cartes blanches translucides avec blur.
 
 
-© 2025 Hardy Nkodia – Merci de citer l’auteur si vous réutilisez ce projet.
+## 🌐 Version en ligne
+
+[![Version en ligne](https://img.shields.io/badge/Live-365%20lumi%C3%A8res-7c3aed)](https://hardynk242.github.io/365-lumieres/)
+
+## 📜 Licence
+
+Ce projet est publié sous licence MIT.
+
+- Tu gardes le droit d’auteur : **© 2025 Hardy Nkodia**.
+- Toute personne peut consulter, utiliser ou adapter le code.
+- Toute réutilisation doit conserver la mention du copyright et la licence MIT.
+
+Si tu utilises ce projet ou t’en inspires, merci de citer :  
+**“365 lumières – développé par Hardy Nkodia”**.
+
