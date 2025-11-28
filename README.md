@@ -79,6 +79,10 @@ Application React (Vite + TypeScript, classes Tailwind) pour un plan de lecture 
 
 ## Codes couleur / style (classes Tailwind)
 - Palette principale : indigo (`bg-indigo-50/500/600`, `text-indigo-500/600/700/900`) et slate (`bg-slate-50/100/800/900`, `text-slate-400/500/600/700/800/900`, `border-slate-100/200`), avec accents verts pour la validation (`text-green-600/700/900`, `bg-green-400/50/100/200`) et oranges pour la constance/intermédiaire (`text-orange-600/900`, `bg-orange-50/200`, `bg-yellow-50/200`).
+
 - Fonds et cartes : `bg-white`, variantes translucides (`bg-white/95`, `bg-black/20` pour overlays), blur (`backdrop-blur`), ombres douces (`shadow-sm`, `shadow-xl`, `shadow-[0_4px_15px_rgba(0,0,0,0.1)]`).
 - Boutons et badges : arrondis (`rounded-full`, `rounded-2xl/3xl`), bordures fines (`border-slate-100/200`), hover indigo/vert, disabled via opacité.
 - Overlays : `bg-slate-900/40` pour le fond, cartes blanches translucides avec blur.
+
+
+© 2025 Hardy Nkodia – Merci de citer l’auteur si vous réutilisez ce projet.
