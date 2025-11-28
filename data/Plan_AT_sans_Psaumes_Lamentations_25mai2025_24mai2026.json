@@ -1,0 +1,4866 @@
+[
+  {
+    "day": 1,
+    "date": "2025-05-25",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 3,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "date": "2025-05-26",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 4,
+        "verse_start": 1,
+        "chapter_end": 5,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "date": "2025-05-27",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 6,
+        "verse_start": 1,
+        "chapter_end": 7,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "date": "2025-05-28",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 8,
+        "verse_start": 1,
+        "chapter_end": 9,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 5,
+    "date": "2025-05-29",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 10,
+        "verse_start": 1,
+        "chapter_end": 11,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "date": "2025-05-30",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 12,
+        "verse_start": 1,
+        "chapter_end": 13,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "date": "2025-05-31",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 14,
+        "verse_start": 1,
+        "chapter_end": 15,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 8,
+    "date": "2025-06-01",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 16,
+        "verse_start": 1,
+        "chapter_end": 17,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 9,
+    "date": "2025-06-02",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 18,
+        "verse_start": 1,
+        "chapter_end": 19,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 10,
+    "date": "2025-06-03",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 20,
+        "verse_start": 1,
+        "chapter_end": 21,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 11,
+    "date": "2025-06-04",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 22,
+        "verse_start": 1,
+        "chapter_end": 23,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 12,
+    "date": "2025-06-05",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 24,
+        "verse_start": 1,
+        "chapter_end": 25,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 13,
+    "date": "2025-06-06",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 26,
+        "verse_start": 1,
+        "chapter_end": 27,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 14,
+    "date": "2025-06-07",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 28,
+        "verse_start": 1,
+        "chapter_end": 29,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 15,
+    "date": "2025-06-08",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 30,
+        "verse_start": 1,
+        "chapter_end": 31,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 16,
+    "date": "2025-06-09",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 32,
+        "verse_start": 1,
+        "chapter_end": 33,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 17,
+    "date": "2025-06-10",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 34,
+        "verse_start": 1,
+        "chapter_end": 35,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 18,
+    "date": "2025-06-11",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 36,
+        "verse_start": 1,
+        "chapter_end": 37,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 19,
+    "date": "2025-06-12",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 38,
+        "verse_start": 1,
+        "chapter_end": 39,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 20,
+    "date": "2025-06-13",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 40,
+        "verse_start": 1,
+        "chapter_end": 41,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 21,
+    "date": "2025-06-14",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 42,
+        "verse_start": 1,
+        "chapter_end": 43,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 22,
+    "date": "2025-06-15",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 44,
+        "verse_start": 1,
+        "chapter_end": 45,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 23,
+    "date": "2025-06-16",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 46,
+        "verse_start": 1,
+        "chapter_end": 47,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 24,
+    "date": "2025-06-17",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 48,
+        "verse_start": 1,
+        "chapter_end": 49,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 25,
+    "date": "2025-06-18",
+    "segments": [
+      {
+        "book": "Genèse",
+        "chapter_start": 50,
+        "verse_start": 1,
+        "chapter_end": 50,
+        "verse_end": null
+      },
+      {
+        "book": "Exode",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 1,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 26,
+    "date": "2025-06-19",
+    "segments": [
+      {
+        "book": "Exode",
+        "chapter_start": 2,
+        "verse_start": 1,
+        "chapter_end": 3,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 27,
+    "date": "2025-06-20",
+    "segments": [
+      {
+        "book": "Exode",
+        "chapter_start": 4,
+        "verse_start": 1,
+        "chapter_end": 5,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 28,
+    "date": "2025-06-21",
+    "segments": [
+      {
+        "book": "Exode",
+        "chapter_start": 6,
+        "verse_start": 1,
+        "chapter_end": 7,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 29,
+    "date": "2025-06-22",
+    "segments": [
+      {
+        "book": "Exode",
+        "chapter_start": 8,
+        "verse_start": 1,
+        "chapter_end": 9,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 30,
+    "date": "2025-06-23",
+    "segments": [
+      {
+        "book": "Exode",
+        "chapter_start": 10,
+        "verse_start": 1,
+        "chapter_end": 11,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 31,
+    "date": "2025-06-24",
+    "segments": [
+      {
+        "book": "Exode",
+        "chapter_start": 12,
+        "verse_start": 1,
+        "chapter_end": 13,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 32,
+    "date": "2025-06-25",
+    "segments": [
+      {
+        "book": "Exode",
+        "chapter_start": 14,
+        "verse_start": 1,
+        "chapter_end": 15,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 33,
+    "date": "2025-06-26",
+    "segments": [
+      {
+        "book": "Exode",
+        "chapter_start": 16,
+        "verse_start": 1,
+        "chapter_end": 17,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 34,
+    "date": "2025-06-27",
+    "segments": [
+      {
+        "book": "Exode",
+        "chapter_start": 18,
+        "verse_start": 1,
+        "chapter_end": 19,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 35,
+    "date": "2025-06-28",
+    "segments": [
+      {
+        "book": "Exode",
+        "chapter_start": 20,
+        "verse_start": 1,
+        "chapter_end": 21,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 36,
+    "date": "2025-06-29",
+    "segments": [
+      {
+        "book": "Exode",
+        "chapter_start": 22,
+        "verse_start": 1,
+        "chapter_end": 23,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 37,
+    "date": "2025-06-30",
+    "segments": [
+      {
+        "book": "Exode",
+        "chapter_start": 24,
+        "verse_start": 1,
+        "chapter_end": 25,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 38,
+    "date": "2025-07-01",
+    "segments": [
+      {
+        "book": "Exode",
+        "chapter_start": 26,
+        "verse_start": 1,
+        "chapter_end": 27,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 39,
+    "date": "2025-07-02",
+    "segments": [
+      {
+        "book": "Exode",
+        "chapter_start": 28,
+        "verse_start": 1,
+        "chapter_end": 29,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 40,
+    "date": "2025-07-03",
+    "segments": [
+      {
+        "book": "Exode",
+        "chapter_start": 30,
+        "verse_start": 1,
+        "chapter_end": 31,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 41,
+    "date": "2025-07-04",
+    "segments": [
+      {
+        "book": "Exode",
+        "chapter_start": 32,
+        "verse_start": 1,
+        "chapter_end": 33,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 42,
+    "date": "2025-07-05",
+    "segments": [
+      {
+        "book": "Exode",
+        "chapter_start": 34,
+        "verse_start": 1,
+        "chapter_end": 35,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 43,
+    "date": "2025-07-06",
+    "segments": [
+      {
+        "book": "Exode",
+        "chapter_start": 36,
+        "verse_start": 1,
+        "chapter_end": 37,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 44,
+    "date": "2025-07-07",
+    "segments": [
+      {
+        "book": "Exode",
+        "chapter_start": 38,
+        "verse_start": 1,
+        "chapter_end": 39,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 45,
+    "date": "2025-07-08",
+    "segments": [
+      {
+        "book": "Exode",
+        "chapter_start": 40,
+        "verse_start": 1,
+        "chapter_end": 40,
+        "verse_end": null
+      },
+      {
+        "book": "Lévitique",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 1,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 46,
+    "date": "2025-07-09",
+    "segments": [
+      {
+        "book": "Lévitique",
+        "chapter_start": 2,
+        "verse_start": 1,
+        "chapter_end": 3,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 47,
+    "date": "2025-07-10",
+    "segments": [
+      {
+        "book": "Lévitique",
+        "chapter_start": 4,
+        "verse_start": 1,
+        "chapter_end": 5,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 48,
+    "date": "2025-07-11",
+    "segments": [
+      {
+        "book": "Lévitique",
+        "chapter_start": 6,
+        "verse_start": 1,
+        "chapter_end": 7,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 49,
+    "date": "2025-07-12",
+    "segments": [
+      {
+        "book": "Lévitique",
+        "chapter_start": 8,
+        "verse_start": 1,
+        "chapter_end": 9,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 50,
+    "date": "2025-07-13",
+    "segments": [
+      {
+        "book": "Lévitique",
+        "chapter_start": 10,
+        "verse_start": 1,
+        "chapter_end": 11,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 51,
+    "date": "2025-07-14",
+    "segments": [
+      {
+        "book": "Lévitique",
+        "chapter_start": 12,
+        "verse_start": 1,
+        "chapter_end": 13,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 52,
+    "date": "2025-07-15",
+    "segments": [
+      {
+        "book": "Lévitique",
+        "chapter_start": 14,
+        "verse_start": 1,
+        "chapter_end": 15,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 53,
+    "date": "2025-07-16",
+    "segments": [
+      {
+        "book": "Lévitique",
+        "chapter_start": 16,
+        "verse_start": 1,
+        "chapter_end": 17,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 54,
+    "date": "2025-07-17",
+    "segments": [
+      {
+        "book": "Lévitique",
+        "chapter_start": 18,
+        "verse_start": 1,
+        "chapter_end": 19,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 55,
+    "date": "2025-07-18",
+    "segments": [
+      {
+        "book": "Lévitique",
+        "chapter_start": 20,
+        "verse_start": 1,
+        "chapter_end": 21,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 56,
+    "date": "2025-07-19",
+    "segments": [
+      {
+        "book": "Lévitique",
+        "chapter_start": 22,
+        "verse_start": 1,
+        "chapter_end": 23,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 57,
+    "date": "2025-07-20",
+    "segments": [
+      {
+        "book": "Lévitique",
+        "chapter_start": 24,
+        "verse_start": 1,
+        "chapter_end": 25,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 58,
+    "date": "2025-07-21",
+    "segments": [
+      {
+        "book": "Lévitique",
+        "chapter_start": 26,
+        "verse_start": 1,
+        "chapter_end": 27,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 59,
+    "date": "2025-07-22",
+    "segments": [
+      {
+        "book": "Nombres",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 2,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 60,
+    "date": "2025-07-23",
+    "segments": [
+      {
+        "book": "Nombres",
+        "chapter_start": 3,
+        "verse_start": 1,
+        "chapter_end": 4,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 61,
+    "date": "2025-07-24",
+    "segments": [
+      {
+        "book": "Nombres",
+        "chapter_start": 5,
+        "verse_start": 1,
+        "chapter_end": 6,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 62,
+    "date": "2025-07-25",
+    "segments": [
+      {
+        "book": "Nombres",
+        "chapter_start": 7,
+        "verse_start": 1,
+        "chapter_end": 8,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 63,
+    "date": "2025-07-26",
+    "segments": [
+      {
+        "book": "Nombres",
+        "chapter_start": 9,
+        "verse_start": 1,
+        "chapter_end": 10,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 64,
+    "date": "2025-07-27",
+    "segments": [
+      {
+        "book": "Nombres",
+        "chapter_start": 11,
+        "verse_start": 1,
+        "chapter_end": 12,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 65,
+    "date": "2025-07-28",
+    "segments": [
+      {
+        "book": "Nombres",
+        "chapter_start": 13,
+        "verse_start": 1,
+        "chapter_end": 14,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 66,
+    "date": "2025-07-29",
+    "segments": [
+      {
+        "book": "Nombres",
+        "chapter_start": 15,
+        "verse_start": 1,
+        "chapter_end": 16,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 67,
+    "date": "2025-07-30",
+    "segments": [
+      {
+        "book": "Nombres",
+        "chapter_start": 17,
+        "verse_start": 1,
+        "chapter_end": 18,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 68,
+    "date": "2025-07-31",
+    "segments": [
+      {
+        "book": "Nombres",
+        "chapter_start": 19,
+        "verse_start": 1,
+        "chapter_end": 20,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 69,
+    "date": "2025-08-01",
+    "segments": [
+      {
+        "book": "Nombres",
+        "chapter_start": 21,
+        "verse_start": 1,
+        "chapter_end": 22,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 70,
+    "date": "2025-08-02",
+    "segments": [
+      {
+        "book": "Nombres",
+        "chapter_start": 23,
+        "verse_start": 1,
+        "chapter_end": 24,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 71,
+    "date": "2025-08-03",
+    "segments": [
+      {
+        "book": "Nombres",
+        "chapter_start": 25,
+        "verse_start": 1,
+        "chapter_end": 26,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 72,
+    "date": "2025-08-04",
+    "segments": [
+      {
+        "book": "Nombres",
+        "chapter_start": 27,
+        "verse_start": 1,
+        "chapter_end": 28,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 73,
+    "date": "2025-08-05",
+    "segments": [
+      {
+        "book": "Nombres",
+        "chapter_start": 29,
+        "verse_start": 1,
+        "chapter_end": 30,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 74,
+    "date": "2025-08-06",
+    "segments": [
+      {
+        "book": "Nombres",
+        "chapter_start": 31,
+        "verse_start": 1,
+        "chapter_end": 32,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 75,
+    "date": "2025-08-07",
+    "segments": [
+      {
+        "book": "Nombres",
+        "chapter_start": 33,
+        "verse_start": 1,
+        "chapter_end": 34,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 76,
+    "date": "2025-08-08",
+    "segments": [
+      {
+        "book": "Nombres",
+        "chapter_start": 35,
+        "verse_start": 1,
+        "chapter_end": 36,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 77,
+    "date": "2025-08-09",
+    "segments": [
+      {
+        "book": "Deutéronome",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 2,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 78,
+    "date": "2025-08-10",
+    "segments": [
+      {
+        "book": "Deutéronome",
+        "chapter_start": 3,
+        "verse_start": 1,
+        "chapter_end": 4,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 79,
+    "date": "2025-08-11",
+    "segments": [
+      {
+        "book": "Deutéronome",
+        "chapter_start": 5,
+        "verse_start": 1,
+        "chapter_end": 6,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 80,
+    "date": "2025-08-12",
+    "segments": [
+      {
+        "book": "Deutéronome",
+        "chapter_start": 7,
+        "verse_start": 1,
+        "chapter_end": 8,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 81,
+    "date": "2025-08-13",
+    "segments": [
+      {
+        "book": "Deutéronome",
+        "chapter_start": 9,
+        "verse_start": 1,
+        "chapter_end": 10,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 82,
+    "date": "2025-08-14",
+    "segments": [
+      {
+        "book": "Deutéronome",
+        "chapter_start": 11,
+        "verse_start": 1,
+        "chapter_end": 12,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 83,
+    "date": "2025-08-15",
+    "segments": [
+      {
+        "book": "Deutéronome",
+        "chapter_start": 13,
+        "verse_start": 1,
+        "chapter_end": 14,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 84,
+    "date": "2025-08-16",
+    "segments": [
+      {
+        "book": "Deutéronome",
+        "chapter_start": 15,
+        "verse_start": 1,
+        "chapter_end": 16,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 85,
+    "date": "2025-08-17",
+    "segments": [
+      {
+        "book": "Deutéronome",
+        "chapter_start": 17,
+        "verse_start": 1,
+        "chapter_end": 18,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 86,
+    "date": "2025-08-18",
+    "segments": [
+      {
+        "book": "Deutéronome",
+        "chapter_start": 19,
+        "verse_start": 1,
+        "chapter_end": 20,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 87,
+    "date": "2025-08-19",
+    "segments": [
+      {
+        "book": "Deutéronome",
+        "chapter_start": 21,
+        "verse_start": 1,
+        "chapter_end": 22,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 88,
+    "date": "2025-08-20",
+    "segments": [
+      {
+        "book": "Deutéronome",
+        "chapter_start": 23,
+        "verse_start": 1,
+        "chapter_end": 24,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 89,
+    "date": "2025-08-21",
+    "segments": [
+      {
+        "book": "Deutéronome",
+        "chapter_start": 25,
+        "verse_start": 1,
+        "chapter_end": 26,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 90,
+    "date": "2025-08-22",
+    "segments": [
+      {
+        "book": "Deutéronome",
+        "chapter_start": 27,
+        "verse_start": 1,
+        "chapter_end": 28,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 91,
+    "date": "2025-08-23",
+    "segments": [
+      {
+        "book": "Deutéronome",
+        "chapter_start": 29,
+        "verse_start": 1,
+        "chapter_end": 30,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 92,
+    "date": "2025-08-24",
+    "segments": [
+      {
+        "book": "Deutéronome",
+        "chapter_start": 31,
+        "verse_start": 1,
+        "chapter_end": 32,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 93,
+    "date": "2025-08-25",
+    "segments": [
+      {
+        "book": "Deutéronome",
+        "chapter_start": 33,
+        "verse_start": 1,
+        "chapter_end": 34,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 94,
+    "date": "2025-08-26",
+    "segments": [
+      {
+        "book": "Josué",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 2,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 95,
+    "date": "2025-08-27",
+    "segments": [
+      {
+        "book": "Josué",
+        "chapter_start": 3,
+        "verse_start": 1,
+        "chapter_end": 4,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 96,
+    "date": "2025-08-28",
+    "segments": [
+      {
+        "book": "Josué",
+        "chapter_start": 5,
+        "verse_start": 1,
+        "chapter_end": 6,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 97,
+    "date": "2025-08-29",
+    "segments": [
+      {
+        "book": "Josué",
+        "chapter_start": 7,
+        "verse_start": 1,
+        "chapter_end": 8,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 98,
+    "date": "2025-08-30",
+    "segments": [
+      {
+        "book": "Josué",
+        "chapter_start": 9,
+        "verse_start": 1,
+        "chapter_end": 10,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 99,
+    "date": "2025-08-31",
+    "segments": [
+      {
+        "book": "Josué",
+        "chapter_start": 11,
+        "verse_start": 1,
+        "chapter_end": 12,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 100,
+    "date": "2025-09-01",
+    "segments": [
+      {
+        "book": "Josué",
+        "chapter_start": 13,
+        "verse_start": 1,
+        "chapter_end": 14,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 101,
+    "date": "2025-09-02",
+    "segments": [
+      {
+        "book": "Josué",
+        "chapter_start": 15,
+        "verse_start": 1,
+        "chapter_end": 16,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 102,
+    "date": "2025-09-03",
+    "segments": [
+      {
+        "book": "Josué",
+        "chapter_start": 17,
+        "verse_start": 1,
+        "chapter_end": 18,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 103,
+    "date": "2025-09-04",
+    "segments": [
+      {
+        "book": "Josué",
+        "chapter_start": 19,
+        "verse_start": 1,
+        "chapter_end": 20,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 104,
+    "date": "2025-09-05",
+    "segments": [
+      {
+        "book": "Josué",
+        "chapter_start": 21,
+        "verse_start": 1,
+        "chapter_end": 22,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 105,
+    "date": "2025-09-06",
+    "segments": [
+      {
+        "book": "Josué",
+        "chapter_start": 23,
+        "verse_start": 1,
+        "chapter_end": 24,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 106,
+    "date": "2025-09-07",
+    "segments": [
+      {
+        "book": "Juges",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 2,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 107,
+    "date": "2025-09-08",
+    "segments": [
+      {
+        "book": "Juges",
+        "chapter_start": 3,
+        "verse_start": 1,
+        "chapter_end": 4,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 108,
+    "date": "2025-09-09",
+    "segments": [
+      {
+        "book": "Juges",
+        "chapter_start": 5,
+        "verse_start": 1,
+        "chapter_end": 6,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 109,
+    "date": "2025-09-10",
+    "segments": [
+      {
+        "book": "Juges",
+        "chapter_start": 7,
+        "verse_start": 1,
+        "chapter_end": 8,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 110,
+    "date": "2025-09-11",
+    "segments": [
+      {
+        "book": "Juges",
+        "chapter_start": 9,
+        "verse_start": 1,
+        "chapter_end": 10,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 111,
+    "date": "2025-09-12",
+    "segments": [
+      {
+        "book": "Juges",
+        "chapter_start": 11,
+        "verse_start": 1,
+        "chapter_end": 12,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 112,
+    "date": "2025-09-13",
+    "segments": [
+      {
+        "book": "Juges",
+        "chapter_start": 13,
+        "verse_start": 1,
+        "chapter_end": 14,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 113,
+    "date": "2025-09-14",
+    "segments": [
+      {
+        "book": "Juges",
+        "chapter_start": 15,
+        "verse_start": 1,
+        "chapter_end": 16,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 114,
+    "date": "2025-09-15",
+    "segments": [
+      {
+        "book": "Juges",
+        "chapter_start": 17,
+        "verse_start": 1,
+        "chapter_end": 18,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 115,
+    "date": "2025-09-16",
+    "segments": [
+      {
+        "book": "Juges",
+        "chapter_start": 19,
+        "verse_start": 1,
+        "chapter_end": 20,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 116,
+    "date": "2025-09-17",
+    "segments": [
+      {
+        "book": "Juges",
+        "chapter_start": 21,
+        "verse_start": 1,
+        "chapter_end": 21,
+        "verse_end": null
+      },
+      {
+        "book": "Ruth",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 1,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 117,
+    "date": "2025-09-18",
+    "segments": [
+      {
+        "book": "Ruth",
+        "chapter_start": 2,
+        "verse_start": 1,
+        "chapter_end": 3,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 118,
+    "date": "2025-09-19",
+    "segments": [
+      {
+        "book": "Ruth",
+        "chapter_start": 4,
+        "verse_start": 1,
+        "chapter_end": 4,
+        "verse_end": null
+      },
+      {
+        "book": "1 Samuel",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 1,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 119,
+    "date": "2025-09-20",
+    "segments": [
+      {
+        "book": "1 Samuel",
+        "chapter_start": 2,
+        "verse_start": 1,
+        "chapter_end": 3,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 120,
+    "date": "2025-09-21",
+    "segments": [
+      {
+        "book": "1 Samuel",
+        "chapter_start": 4,
+        "verse_start": 1,
+        "chapter_end": 5,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 121,
+    "date": "2025-09-22",
+    "segments": [
+      {
+        "book": "1 Samuel",
+        "chapter_start": 6,
+        "verse_start": 1,
+        "chapter_end": 7,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 122,
+    "date": "2025-09-23",
+    "segments": [
+      {
+        "book": "1 Samuel",
+        "chapter_start": 8,
+        "verse_start": 1,
+        "chapter_end": 9,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 123,
+    "date": "2025-09-24",
+    "segments": [
+      {
+        "book": "1 Samuel",
+        "chapter_start": 10,
+        "verse_start": 1,
+        "chapter_end": 11,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 124,
+    "date": "2025-09-25",
+    "segments": [
+      {
+        "book": "1 Samuel",
+        "chapter_start": 12,
+        "verse_start": 1,
+        "chapter_end": 13,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 125,
+    "date": "2025-09-26",
+    "segments": [
+      {
+        "book": "1 Samuel",
+        "chapter_start": 14,
+        "verse_start": 1,
+        "chapter_end": 15,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 126,
+    "date": "2025-09-27",
+    "segments": [
+      {
+        "book": "1 Samuel",
+        "chapter_start": 16,
+        "verse_start": 1,
+        "chapter_end": 17,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 127,
+    "date": "2025-09-28",
+    "segments": [
+      {
+        "book": "1 Samuel",
+        "chapter_start": 18,
+        "verse_start": 1,
+        "chapter_end": 19,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 128,
+    "date": "2025-09-29",
+    "segments": [
+      {
+        "book": "1 Samuel",
+        "chapter_start": 20,
+        "verse_start": 1,
+        "chapter_end": 21,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 129,
+    "date": "2025-09-30",
+    "segments": [
+      {
+        "book": "1 Samuel",
+        "chapter_start": 22,
+        "verse_start": 1,
+        "chapter_end": 23,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 130,
+    "date": "2025-10-01",
+    "segments": [
+      {
+        "book": "1 Samuel",
+        "chapter_start": 24,
+        "verse_start": 1,
+        "chapter_end": 25,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 131,
+    "date": "2025-10-02",
+    "segments": [
+      {
+        "book": "1 Samuel",
+        "chapter_start": 26,
+        "verse_start": 1,
+        "chapter_end": 27,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 132,
+    "date": "2025-10-03",
+    "segments": [
+      {
+        "book": "1 Samuel",
+        "chapter_start": 28,
+        "verse_start": 1,
+        "chapter_end": 29,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 133,
+    "date": "2025-10-04",
+    "segments": [
+      {
+        "book": "1 Samuel",
+        "chapter_start": 30,
+        "verse_start": 1,
+        "chapter_end": 31,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 134,
+    "date": "2025-10-05",
+    "segments": [
+      {
+        "book": "2 Samuel",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 2,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 135,
+    "date": "2025-10-06",
+    "segments": [
+      {
+        "book": "2 Samuel",
+        "chapter_start": 3,
+        "verse_start": 1,
+        "chapter_end": 4,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 136,
+    "date": "2025-10-07",
+    "segments": [
+      {
+        "book": "2 Samuel",
+        "chapter_start": 5,
+        "verse_start": 1,
+        "chapter_end": 6,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 137,
+    "date": "2025-10-08",
+    "segments": [
+      {
+        "book": "2 Samuel",
+        "chapter_start": 7,
+        "verse_start": 1,
+        "chapter_end": 8,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 138,
+    "date": "2025-10-09",
+    "segments": [
+      {
+        "book": "2 Samuel",
+        "chapter_start": 9,
+        "verse_start": 1,
+        "chapter_end": 10,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 139,
+    "date": "2025-10-10",
+    "segments": [
+      {
+        "book": "2 Samuel",
+        "chapter_start": 11,
+        "verse_start": 1,
+        "chapter_end": 12,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 140,
+    "date": "2025-10-11",
+    "segments": [
+      {
+        "book": "2 Samuel",
+        "chapter_start": 13,
+        "verse_start": 1,
+        "chapter_end": 14,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 141,
+    "date": "2025-10-12",
+    "segments": [
+      {
+        "book": "2 Samuel",
+        "chapter_start": 15,
+        "verse_start": 1,
+        "chapter_end": 16,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 142,
+    "date": "2025-10-13",
+    "segments": [
+      {
+        "book": "2 Samuel",
+        "chapter_start": 17,
+        "verse_start": 1,
+        "chapter_end": 18,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 143,
+    "date": "2025-10-14",
+    "segments": [
+      {
+        "book": "2 Samuel",
+        "chapter_start": 19,
+        "verse_start": 1,
+        "chapter_end": 20,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 144,
+    "date": "2025-10-15",
+    "segments": [
+      {
+        "book": "2 Samuel",
+        "chapter_start": 21,
+        "verse_start": 1,
+        "chapter_end": 22,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 145,
+    "date": "2025-10-16",
+    "segments": [
+      {
+        "book": "2 Samuel",
+        "chapter_start": 23,
+        "verse_start": 1,
+        "chapter_end": 24,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 146,
+    "date": "2025-10-17",
+    "segments": [
+      {
+        "book": "1 Rois",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 2,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 147,
+    "date": "2025-10-18",
+    "segments": [
+      {
+        "book": "1 Rois",
+        "chapter_start": 3,
+        "verse_start": 1,
+        "chapter_end": 4,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 148,
+    "date": "2025-10-19",
+    "segments": [
+      {
+        "book": "1 Rois",
+        "chapter_start": 5,
+        "verse_start": 1,
+        "chapter_end": 6,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 149,
+    "date": "2025-10-20",
+    "segments": [
+      {
+        "book": "1 Rois",
+        "chapter_start": 7,
+        "verse_start": 1,
+        "chapter_end": 8,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 150,
+    "date": "2025-10-21",
+    "segments": [
+      {
+        "book": "1 Rois",
+        "chapter_start": 9,
+        "verse_start": 1,
+        "chapter_end": 10,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 151,
+    "date": "2025-10-22",
+    "segments": [
+      {
+        "book": "1 Rois",
+        "chapter_start": 11,
+        "verse_start": 1,
+        "chapter_end": 12,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 152,
+    "date": "2025-10-23",
+    "segments": [
+      {
+        "book": "1 Rois",
+        "chapter_start": 13,
+        "verse_start": 1,
+        "chapter_end": 14,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 153,
+    "date": "2025-10-24",
+    "segments": [
+      {
+        "book": "1 Rois",
+        "chapter_start": 15,
+        "verse_start": 1,
+        "chapter_end": 16,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 154,
+    "date": "2025-10-25",
+    "segments": [
+      {
+        "book": "1 Rois",
+        "chapter_start": 17,
+        "verse_start": 1,
+        "chapter_end": 18,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 155,
+    "date": "2025-10-26",
+    "segments": [
+      {
+        "book": "1 Rois",
+        "chapter_start": 19,
+        "verse_start": 1,
+        "chapter_end": 20,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 156,
+    "date": "2025-10-27",
+    "segments": [
+      {
+        "book": "1 Rois",
+        "chapter_start": 21,
+        "verse_start": 1,
+        "chapter_end": 22,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 157,
+    "date": "2025-10-28",
+    "segments": [
+      {
+        "book": "2 Rois",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 2,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 158,
+    "date": "2025-10-29",
+    "segments": [
+      {
+        "book": "2 Rois",
+        "chapter_start": 3,
+        "verse_start": 1,
+        "chapter_end": 4,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 159,
+    "date": "2025-10-30",
+    "segments": [
+      {
+        "book": "2 Rois",
+        "chapter_start": 5,
+        "verse_start": 1,
+        "chapter_end": 6,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 160,
+    "date": "2025-10-31",
+    "segments": [
+      {
+        "book": "2 Rois",
+        "chapter_start": 7,
+        "verse_start": 1,
+        "chapter_end": 8,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 161,
+    "date": "2025-11-01",
+    "segments": [
+      {
+        "book": "2 Rois",
+        "chapter_start": 9,
+        "verse_start": 1,
+        "chapter_end": 10,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 162,
+    "date": "2025-11-02",
+    "segments": [
+      {
+        "book": "2 Rois",
+        "chapter_start": 11,
+        "verse_start": 1,
+        "chapter_end": 12,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 163,
+    "date": "2025-11-03",
+    "segments": [
+      {
+        "book": "2 Rois",
+        "chapter_start": 13,
+        "verse_start": 1,
+        "chapter_end": 14,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 164,
+    "date": "2025-11-04",
+    "segments": [
+      {
+        "book": "2 Rois",
+        "chapter_start": 15,
+        "verse_start": 1,
+        "chapter_end": 16,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 165,
+    "date": "2025-11-05",
+    "segments": [
+      {
+        "book": "2 Rois",
+        "chapter_start": 17,
+        "verse_start": 1,
+        "chapter_end": 18,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 166,
+    "date": "2025-11-06",
+    "segments": [
+      {
+        "book": "2 Rois",
+        "chapter_start": 19,
+        "verse_start": 1,
+        "chapter_end": 20,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 167,
+    "date": "2025-11-07",
+    "segments": [
+      {
+        "book": "2 Rois",
+        "chapter_start": 21,
+        "verse_start": 1,
+        "chapter_end": 22,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 168,
+    "date": "2025-11-08",
+    "segments": [
+      {
+        "book": "2 Rois",
+        "chapter_start": 23,
+        "verse_start": 1,
+        "chapter_end": 24,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 169,
+    "date": "2025-11-09",
+    "segments": [
+      {
+        "book": "2 Rois",
+        "chapter_start": 25,
+        "verse_start": 1,
+        "chapter_end": 25,
+        "verse_end": null
+      },
+      {
+        "book": "1 Chroniques",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 1,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 170,
+    "date": "2025-11-10",
+    "segments": [
+      {
+        "book": "1 Chroniques",
+        "chapter_start": 2,
+        "verse_start": 1,
+        "chapter_end": 3,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 171,
+    "date": "2025-11-11",
+    "segments": [
+      {
+        "book": "1 Chroniques",
+        "chapter_start": 4,
+        "verse_start": 1,
+        "chapter_end": 5,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 172,
+    "date": "2025-11-12",
+    "segments": [
+      {
+        "book": "1 Chroniques",
+        "chapter_start": 6,
+        "verse_start": 1,
+        "chapter_end": 7,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 173,
+    "date": "2025-11-13",
+    "segments": [
+      {
+        "book": "1 Chroniques",
+        "chapter_start": 8,
+        "verse_start": 1,
+        "chapter_end": 9,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 174,
+    "date": "2025-11-14",
+    "segments": [
+      {
+        "book": "1 Chroniques",
+        "chapter_start": 10,
+        "verse_start": 1,
+        "chapter_end": 11,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 175,
+    "date": "2025-11-15",
+    "segments": [
+      {
+        "book": "1 Chroniques",
+        "chapter_start": 12,
+        "verse_start": 1,
+        "chapter_end": 13,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 176,
+    "date": "2025-11-16",
+    "segments": [
+      {
+        "book": "1 Chroniques",
+        "chapter_start": 14,
+        "verse_start": 1,
+        "chapter_end": 15,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 177,
+    "date": "2025-11-17",
+    "segments": [
+      {
+        "book": "1 Chroniques",
+        "chapter_start": 16,
+        "verse_start": 1,
+        "chapter_end": 17,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 178,
+    "date": "2025-11-18",
+    "segments": [
+      {
+        "book": "1 Chroniques",
+        "chapter_start": 18,
+        "verse_start": 1,
+        "chapter_end": 19,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 179,
+    "date": "2025-11-19",
+    "segments": [
+      {
+        "book": "1 Chroniques",
+        "chapter_start": 20,
+        "verse_start": 1,
+        "chapter_end": 21,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 180,
+    "date": "2025-11-20",
+    "segments": [
+      {
+        "book": "1 Chroniques",
+        "chapter_start": 22,
+        "verse_start": 1,
+        "chapter_end": 23,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 181,
+    "date": "2025-11-21",
+    "segments": [
+      {
+        "book": "1 Chroniques",
+        "chapter_start": 24,
+        "verse_start": 1,
+        "chapter_end": 25,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 182,
+    "date": "2025-11-22",
+    "segments": [
+      {
+        "book": "1 Chroniques",
+        "chapter_start": 26,
+        "verse_start": 1,
+        "chapter_end": 27,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 183,
+    "date": "2025-11-23",
+    "segments": [
+      {
+        "book": "1 Chroniques",
+        "chapter_start": 28,
+        "verse_start": 1,
+        "chapter_end": 29,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 184,
+    "date": "2025-11-24",
+    "segments": [
+      {
+        "book": "2 Chroniques",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 2,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 185,
+    "date": "2025-11-25",
+    "segments": [
+      {
+        "book": "2 Chroniques",
+        "chapter_start": 3,
+        "verse_start": 1,
+        "chapter_end": 4,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 186,
+    "date": "2025-11-26",
+    "segments": [
+      {
+        "book": "2 Chroniques",
+        "chapter_start": 5,
+        "verse_start": 1,
+        "chapter_end": 6,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 187,
+    "date": "2025-11-27",
+    "segments": [
+      {
+        "book": "2 Chroniques",
+        "chapter_start": 7,
+        "verse_start": 1,
+        "chapter_end": 8,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 188,
+    "date": "2025-11-28",
+    "segments": [
+      {
+        "book": "2 Chroniques",
+        "chapter_start": 9,
+        "verse_start": 1,
+        "chapter_end": 10,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 189,
+    "date": "2025-11-29",
+    "segments": [
+      {
+        "book": "2 Chroniques",
+        "chapter_start": 11,
+        "verse_start": 1,
+        "chapter_end": 12,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 190,
+    "date": "2025-11-30",
+    "segments": [
+      {
+        "book": "2 Chroniques",
+        "chapter_start": 13,
+        "verse_start": 1,
+        "chapter_end": 14,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 191,
+    "date": "2025-12-01",
+    "segments": [
+      {
+        "book": "2 Chroniques",
+        "chapter_start": 15,
+        "verse_start": 1,
+        "chapter_end": 16,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 192,
+    "date": "2025-12-02",
+    "segments": [
+      {
+        "book": "2 Chroniques",
+        "chapter_start": 17,
+        "verse_start": 1,
+        "chapter_end": 18,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 193,
+    "date": "2025-12-03",
+    "segments": [
+      {
+        "book": "2 Chroniques",
+        "chapter_start": 19,
+        "verse_start": 1,
+        "chapter_end": 20,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 194,
+    "date": "2025-12-04",
+    "segments": [
+      {
+        "book": "2 Chroniques",
+        "chapter_start": 21,
+        "verse_start": 1,
+        "chapter_end": 22,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 195,
+    "date": "2025-12-05",
+    "segments": [
+      {
+        "book": "2 Chroniques",
+        "chapter_start": 23,
+        "verse_start": 1,
+        "chapter_end": 24,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 196,
+    "date": "2025-12-06",
+    "segments": [
+      {
+        "book": "2 Chroniques",
+        "chapter_start": 25,
+        "verse_start": 1,
+        "chapter_end": 26,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 197,
+    "date": "2025-12-07",
+    "segments": [
+      {
+        "book": "2 Chroniques",
+        "chapter_start": 27,
+        "verse_start": 1,
+        "chapter_end": 28,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 198,
+    "date": "2025-12-08",
+    "segments": [
+      {
+        "book": "2 Chroniques",
+        "chapter_start": 29,
+        "verse_start": 1,
+        "chapter_end": 30,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 199,
+    "date": "2025-12-09",
+    "segments": [
+      {
+        "book": "2 Chroniques",
+        "chapter_start": 31,
+        "verse_start": 1,
+        "chapter_end": 32,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 200,
+    "date": "2025-12-10",
+    "segments": [
+      {
+        "book": "2 Chroniques",
+        "chapter_start": 33,
+        "verse_start": 1,
+        "chapter_end": 34,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 201,
+    "date": "2025-12-11",
+    "segments": [
+      {
+        "book": "2 Chroniques",
+        "chapter_start": 35,
+        "verse_start": 1,
+        "chapter_end": 36,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 202,
+    "date": "2025-12-12",
+    "segments": [
+      {
+        "book": "Esdras",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 2,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 203,
+    "date": "2025-12-13",
+    "segments": [
+      {
+        "book": "Esdras",
+        "chapter_start": 3,
+        "verse_start": 1,
+        "chapter_end": 4,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 204,
+    "date": "2025-12-14",
+    "segments": [
+      {
+        "book": "Esdras",
+        "chapter_start": 5,
+        "verse_start": 1,
+        "chapter_end": 6,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 205,
+    "date": "2025-12-15",
+    "segments": [
+      {
+        "book": "Esdras",
+        "chapter_start": 7,
+        "verse_start": 1,
+        "chapter_end": 8,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 206,
+    "date": "2025-12-16",
+    "segments": [
+      {
+        "book": "Esdras",
+        "chapter_start": 9,
+        "verse_start": 1,
+        "chapter_end": 10,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 207,
+    "date": "2025-12-17",
+    "segments": [
+      {
+        "book": "Néhémie",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 2,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 208,
+    "date": "2025-12-18",
+    "segments": [
+      {
+        "book": "Néhémie",
+        "chapter_start": 3,
+        "verse_start": 1,
+        "chapter_end": 4,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 209,
+    "date": "2025-12-19",
+    "segments": [
+      {
+        "book": "Néhémie",
+        "chapter_start": 5,
+        "verse_start": 1,
+        "chapter_end": 6,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 210,
+    "date": "2025-12-20",
+    "segments": [
+      {
+        "book": "Néhémie",
+        "chapter_start": 7,
+        "verse_start": 1,
+        "chapter_end": 8,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 211,
+    "date": "2025-12-21",
+    "segments": [
+      {
+        "book": "Néhémie",
+        "chapter_start": 9,
+        "verse_start": 1,
+        "chapter_end": 10,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 212,
+    "date": "2025-12-22",
+    "segments": [
+      {
+        "book": "Néhémie",
+        "chapter_start": 11,
+        "verse_start": 1,
+        "chapter_end": 12,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 213,
+    "date": "2025-12-23",
+    "segments": [
+      {
+        "book": "Néhémie",
+        "chapter_start": 13,
+        "verse_start": 1,
+        "chapter_end": 13,
+        "verse_end": null
+      },
+      {
+        "book": "Esther",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 1,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 214,
+    "date": "2025-12-24",
+    "segments": [
+      {
+        "book": "Esther",
+        "chapter_start": 2,
+        "verse_start": 1,
+        "chapter_end": 3,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 215,
+    "date": "2025-12-25",
+    "segments": [
+      {
+        "book": "Esther",
+        "chapter_start": 4,
+        "verse_start": 1,
+        "chapter_end": 5,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 216,
+    "date": "2025-12-26",
+    "segments": [
+      {
+        "book": "Esther",
+        "chapter_start": 6,
+        "verse_start": 1,
+        "chapter_end": 7,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 217,
+    "date": "2025-12-27",
+    "segments": [
+      {
+        "book": "Esther",
+        "chapter_start": 8,
+        "verse_start": 1,
+        "chapter_end": 9,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 218,
+    "date": "2025-12-28",
+    "segments": [
+      {
+        "book": "Esther",
+        "chapter_start": 10,
+        "verse_start": 1,
+        "chapter_end": 10,
+        "verse_end": null
+      },
+      {
+        "book": "Job",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 1,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 219,
+    "date": "2025-12-29",
+    "segments": [
+      {
+        "book": "Job",
+        "chapter_start": 2,
+        "verse_start": 1,
+        "chapter_end": 3,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 220,
+    "date": "2025-12-30",
+    "segments": [
+      {
+        "book": "Job",
+        "chapter_start": 4,
+        "verse_start": 1,
+        "chapter_end": 5,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 221,
+    "date": "2025-12-31",
+    "segments": [
+      {
+        "book": "Job",
+        "chapter_start": 6,
+        "verse_start": 1,
+        "chapter_end": 7,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 222,
+    "date": "2026-01-01",
+    "segments": [
+      {
+        "book": "Job",
+        "chapter_start": 8,
+        "verse_start": 1,
+        "chapter_end": 9,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 223,
+    "date": "2026-01-02",
+    "segments": [
+      {
+        "book": "Job",
+        "chapter_start": 10,
+        "verse_start": 1,
+        "chapter_end": 11,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 224,
+    "date": "2026-01-03",
+    "segments": [
+      {
+        "book": "Job",
+        "chapter_start": 12,
+        "verse_start": 1,
+        "chapter_end": 13,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 225,
+    "date": "2026-01-04",
+    "segments": [
+      {
+        "book": "Job",
+        "chapter_start": 14,
+        "verse_start": 1,
+        "chapter_end": 15,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 226,
+    "date": "2026-01-05",
+    "segments": [
+      {
+        "book": "Job",
+        "chapter_start": 16,
+        "verse_start": 1,
+        "chapter_end": 17,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 227,
+    "date": "2026-01-06",
+    "segments": [
+      {
+        "book": "Job",
+        "chapter_start": 18,
+        "verse_start": 1,
+        "chapter_end": 19,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 228,
+    "date": "2026-01-07",
+    "segments": [
+      {
+        "book": "Job",
+        "chapter_start": 20,
+        "verse_start": 1,
+        "chapter_end": 21,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 229,
+    "date": "2026-01-08",
+    "segments": [
+      {
+        "book": "Job",
+        "chapter_start": 22,
+        "verse_start": 1,
+        "chapter_end": 23,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 230,
+    "date": "2026-01-09",
+    "segments": [
+      {
+        "book": "Job",
+        "chapter_start": 24,
+        "verse_start": 1,
+        "chapter_end": 25,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 231,
+    "date": "2026-01-10",
+    "segments": [
+      {
+        "book": "Job",
+        "chapter_start": 26,
+        "verse_start": 1,
+        "chapter_end": 27,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 232,
+    "date": "2026-01-11",
+    "segments": [
+      {
+        "book": "Job",
+        "chapter_start": 28,
+        "verse_start": 1,
+        "chapter_end": 29,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 233,
+    "date": "2026-01-12",
+    "segments": [
+      {
+        "book": "Job",
+        "chapter_start": 30,
+        "verse_start": 1,
+        "chapter_end": 31,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 234,
+    "date": "2026-01-13",
+    "segments": [
+      {
+        "book": "Job",
+        "chapter_start": 32,
+        "verse_start": 1,
+        "chapter_end": 33,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 235,
+    "date": "2026-01-14",
+    "segments": [
+      {
+        "book": "Job",
+        "chapter_start": 34,
+        "verse_start": 1,
+        "chapter_end": 35,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 236,
+    "date": "2026-01-15",
+    "segments": [
+      {
+        "book": "Job",
+        "chapter_start": 36,
+        "verse_start": 1,
+        "chapter_end": 37,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 237,
+    "date": "2026-01-16",
+    "segments": [
+      {
+        "book": "Job",
+        "chapter_start": 38,
+        "verse_start": 1,
+        "chapter_end": 39,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 238,
+    "date": "2026-01-17",
+    "segments": [
+      {
+        "book": "Job",
+        "chapter_start": 40,
+        "verse_start": 1,
+        "chapter_end": 41,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 239,
+    "date": "2026-01-18",
+    "segments": [
+      {
+        "book": "Job",
+        "chapter_start": 42,
+        "verse_start": 1,
+        "chapter_end": 42,
+        "verse_end": null
+      },
+      {
+        "book": "Cantique des Cantiques",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 1,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 240,
+    "date": "2026-01-19",
+    "segments": [
+      {
+        "book": "Cantique des Cantiques",
+        "chapter_start": 2,
+        "verse_start": 1,
+        "chapter_end": 3,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 241,
+    "date": "2026-01-20",
+    "segments": [
+      {
+        "book": "Cantique des Cantiques",
+        "chapter_start": 4,
+        "verse_start": 1,
+        "chapter_end": 5,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 242,
+    "date": "2026-01-21",
+    "segments": [
+      {
+        "book": "Cantique des Cantiques",
+        "chapter_start": 6,
+        "verse_start": 1,
+        "chapter_end": 7,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 243,
+    "date": "2026-01-22",
+    "segments": [
+      {
+        "book": "Cantique des Cantiques",
+        "chapter_start": 8,
+        "verse_start": 1,
+        "chapter_end": 8,
+        "verse_end": null
+      },
+      {
+        "book": "Ésaïe",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 1,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 244,
+    "date": "2026-01-23",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 2,
+        "verse_start": 1,
+        "chapter_end": 3,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 245,
+    "date": "2026-01-24",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 4,
+        "verse_start": 1,
+        "chapter_end": 5,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 246,
+    "date": "2026-01-25",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 6,
+        "verse_start": 1,
+        "chapter_end": 7,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 247,
+    "date": "2026-01-26",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 8,
+        "verse_start": 1,
+        "chapter_end": 9,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 248,
+    "date": "2026-01-27",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 10,
+        "verse_start": 1,
+        "chapter_end": 11,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 249,
+    "date": "2026-01-28",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 12,
+        "verse_start": 1,
+        "chapter_end": 13,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 250,
+    "date": "2026-01-29",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 14,
+        "verse_start": 1,
+        "chapter_end": 15,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 251,
+    "date": "2026-01-30",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 16,
+        "verse_start": 1,
+        "chapter_end": 17,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 252,
+    "date": "2026-01-31",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 18,
+        "verse_start": 1,
+        "chapter_end": 19,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 253,
+    "date": "2026-02-01",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 20,
+        "verse_start": 1,
+        "chapter_end": 21,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 254,
+    "date": "2026-02-02",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 22,
+        "verse_start": 1,
+        "chapter_end": 23,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 255,
+    "date": "2026-02-03",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 24,
+        "verse_start": 1,
+        "chapter_end": 25,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 256,
+    "date": "2026-02-04",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 26,
+        "verse_start": 1,
+        "chapter_end": 27,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 257,
+    "date": "2026-02-05",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 28,
+        "verse_start": 1,
+        "chapter_end": 29,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 258,
+    "date": "2026-02-06",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 30,
+        "verse_start": 1,
+        "chapter_end": 31,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 259,
+    "date": "2026-02-07",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 32,
+        "verse_start": 1,
+        "chapter_end": 33,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 260,
+    "date": "2026-02-08",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 34,
+        "verse_start": 1,
+        "chapter_end": 35,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 261,
+    "date": "2026-02-09",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 36,
+        "verse_start": 1,
+        "chapter_end": 37,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 262,
+    "date": "2026-02-10",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 38,
+        "verse_start": 1,
+        "chapter_end": 39,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 263,
+    "date": "2026-02-11",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 40,
+        "verse_start": 1,
+        "chapter_end": 41,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 264,
+    "date": "2026-02-12",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 42,
+        "verse_start": 1,
+        "chapter_end": 43,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 265,
+    "date": "2026-02-13",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 44,
+        "verse_start": 1,
+        "chapter_end": 45,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 266,
+    "date": "2026-02-14",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 46,
+        "verse_start": 1,
+        "chapter_end": 47,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 267,
+    "date": "2026-02-15",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 48,
+        "verse_start": 1,
+        "chapter_end": 49,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 268,
+    "date": "2026-02-16",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 50,
+        "verse_start": 1,
+        "chapter_end": 51,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 269,
+    "date": "2026-02-17",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 52,
+        "verse_start": 1,
+        "chapter_end": 53,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 270,
+    "date": "2026-02-18",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 54,
+        "verse_start": 1,
+        "chapter_end": 55,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 271,
+    "date": "2026-02-19",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 56,
+        "verse_start": 1,
+        "chapter_end": 57,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 272,
+    "date": "2026-02-20",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 58,
+        "verse_start": 1,
+        "chapter_end": 59,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 273,
+    "date": "2026-02-21",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 60,
+        "verse_start": 1,
+        "chapter_end": 61,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 274,
+    "date": "2026-02-22",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 62,
+        "verse_start": 1,
+        "chapter_end": 63,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 275,
+    "date": "2026-02-23",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 64,
+        "verse_start": 1,
+        "chapter_end": 65,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 276,
+    "date": "2026-02-24",
+    "segments": [
+      {
+        "book": "Ésaïe",
+        "chapter_start": 66,
+        "verse_start": 1,
+        "chapter_end": 66,
+        "verse_end": null
+      },
+      {
+        "book": "Jérémie",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 1,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 277,
+    "date": "2026-02-25",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 2,
+        "verse_start": 1,
+        "chapter_end": 3,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 278,
+    "date": "2026-02-26",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 4,
+        "verse_start": 1,
+        "chapter_end": 5,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 279,
+    "date": "2026-02-27",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 6,
+        "verse_start": 1,
+        "chapter_end": 7,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 280,
+    "date": "2026-02-28",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 8,
+        "verse_start": 1,
+        "chapter_end": 9,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 281,
+    "date": "2026-03-01",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 10,
+        "verse_start": 1,
+        "chapter_end": 11,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 282,
+    "date": "2026-03-02",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 12,
+        "verse_start": 1,
+        "chapter_end": 13,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 283,
+    "date": "2026-03-03",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 14,
+        "verse_start": 1,
+        "chapter_end": 15,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 284,
+    "date": "2026-03-04",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 16,
+        "verse_start": 1,
+        "chapter_end": 17,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 285,
+    "date": "2026-03-05",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 18,
+        "verse_start": 1,
+        "chapter_end": 19,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 286,
+    "date": "2026-03-06",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 20,
+        "verse_start": 1,
+        "chapter_end": 21,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 287,
+    "date": "2026-03-07",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 22,
+        "verse_start": 1,
+        "chapter_end": 23,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 288,
+    "date": "2026-03-08",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 24,
+        "verse_start": 1,
+        "chapter_end": 25,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 289,
+    "date": "2026-03-09",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 26,
+        "verse_start": 1,
+        "chapter_end": 27,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 290,
+    "date": "2026-03-10",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 28,
+        "verse_start": 1,
+        "chapter_end": 29,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 291,
+    "date": "2026-03-11",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 30,
+        "verse_start": 1,
+        "chapter_end": 31,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 292,
+    "date": "2026-03-12",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 32,
+        "verse_start": 1,
+        "chapter_end": 33,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 293,
+    "date": "2026-03-13",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 34,
+        "verse_start": 1,
+        "chapter_end": 35,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 294,
+    "date": "2026-03-14",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 36,
+        "verse_start": 1,
+        "chapter_end": 37,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 295,
+    "date": "2026-03-15",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 38,
+        "verse_start": 1,
+        "chapter_end": 39,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 296,
+    "date": "2026-03-16",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 40,
+        "verse_start": 1,
+        "chapter_end": 41,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 297,
+    "date": "2026-03-17",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 42,
+        "verse_start": 1,
+        "chapter_end": 43,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 298,
+    "date": "2026-03-18",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 44,
+        "verse_start": 1,
+        "chapter_end": 45,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 299,
+    "date": "2026-03-19",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 46,
+        "verse_start": 1,
+        "chapter_end": 47,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 300,
+    "date": "2026-03-20",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 48,
+        "verse_start": 1,
+        "chapter_end": 49,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 301,
+    "date": "2026-03-21",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 50,
+        "verse_start": 1,
+        "chapter_end": 51,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 302,
+    "date": "2026-03-22",
+    "segments": [
+      {
+        "book": "Jérémie",
+        "chapter_start": 52,
+        "verse_start": 1,
+        "chapter_end": 52,
+        "verse_end": null
+      },
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 1,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 303,
+    "date": "2026-03-23",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 2,
+        "verse_start": 1,
+        "chapter_end": 3,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 304,
+    "date": "2026-03-24",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 4,
+        "verse_start": 1,
+        "chapter_end": 5,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 305,
+    "date": "2026-03-25",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 6,
+        "verse_start": 1,
+        "chapter_end": 7,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 306,
+    "date": "2026-03-26",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 8,
+        "verse_start": 1,
+        "chapter_end": 9,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 307,
+    "date": "2026-03-27",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 10,
+        "verse_start": 1,
+        "chapter_end": 11,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 308,
+    "date": "2026-03-28",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 12,
+        "verse_start": 1,
+        "chapter_end": 13,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 309,
+    "date": "2026-03-29",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 14,
+        "verse_start": 1,
+        "chapter_end": 15,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 310,
+    "date": "2026-03-30",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 16,
+        "verse_start": 1,
+        "chapter_end": 17,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 311,
+    "date": "2026-03-31",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 18,
+        "verse_start": 1,
+        "chapter_end": 19,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 312,
+    "date": "2026-04-01",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 20,
+        "verse_start": 1,
+        "chapter_end": 21,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 313,
+    "date": "2026-04-02",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 22,
+        "verse_start": 1,
+        "chapter_end": 23,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 314,
+    "date": "2026-04-03",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 24,
+        "verse_start": 1,
+        "chapter_end": 25,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 315,
+    "date": "2026-04-04",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 26,
+        "verse_start": 1,
+        "chapter_end": 27,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 316,
+    "date": "2026-04-05",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 28,
+        "verse_start": 1,
+        "chapter_end": 29,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 317,
+    "date": "2026-04-06",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 30,
+        "verse_start": 1,
+        "chapter_end": 31,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 318,
+    "date": "2026-04-07",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 32,
+        "verse_start": 1,
+        "chapter_end": 33,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 319,
+    "date": "2026-04-08",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 34,
+        "verse_start": 1,
+        "chapter_end": 35,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 320,
+    "date": "2026-04-09",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 36,
+        "verse_start": 1,
+        "chapter_end": 37,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 321,
+    "date": "2026-04-10",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 38,
+        "verse_start": 1,
+        "chapter_end": 39,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 322,
+    "date": "2026-04-11",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 40,
+        "verse_start": 1,
+        "chapter_end": 41,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 323,
+    "date": "2026-04-12",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 42,
+        "verse_start": 1,
+        "chapter_end": 43,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 324,
+    "date": "2026-04-13",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 44,
+        "verse_start": 1,
+        "chapter_end": 45,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 325,
+    "date": "2026-04-14",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 46,
+        "verse_start": 1,
+        "chapter_end": 47,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 326,
+    "date": "2026-04-15",
+    "segments": [
+      {
+        "book": "Ézéchiel",
+        "chapter_start": 48,
+        "verse_start": 1,
+        "chapter_end": 48,
+        "verse_end": null
+      },
+      {
+        "book": "Daniel",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 1,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 327,
+    "date": "2026-04-16",
+    "segments": [
+      {
+        "book": "Daniel",
+        "chapter_start": 2,
+        "verse_start": 1,
+        "chapter_end": 3,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 328,
+    "date": "2026-04-17",
+    "segments": [
+      {
+        "book": "Daniel",
+        "chapter_start": 4,
+        "verse_start": 1,
+        "chapter_end": 5,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 329,
+    "date": "2026-04-18",
+    "segments": [
+      {
+        "book": "Daniel",
+        "chapter_start": 6,
+        "verse_start": 1,
+        "chapter_end": 7,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 330,
+    "date": "2026-04-19",
+    "segments": [
+      {
+        "book": "Daniel",
+        "chapter_start": 8,
+        "verse_start": 1,
+        "chapter_end": 9,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 331,
+    "date": "2026-04-20",
+    "segments": [
+      {
+        "book": "Daniel",
+        "chapter_start": 10,
+        "verse_start": 1,
+        "chapter_end": 11,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 332,
+    "date": "2026-04-21",
+    "segments": [
+      {
+        "book": "Daniel",
+        "chapter_start": 12,
+        "verse_start": 1,
+        "chapter_end": 12,
+        "verse_end": null
+      },
+      {
+        "book": "Osée",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 1,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 333,
+    "date": "2026-04-22",
+    "segments": [
+      {
+        "book": "Osée",
+        "chapter_start": 2,
+        "verse_start": 1,
+        "chapter_end": 3,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 334,
+    "date": "2026-04-23",
+    "segments": [
+      {
+        "book": "Osée",
+        "chapter_start": 4,
+        "verse_start": 1,
+        "chapter_end": 5,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 335,
+    "date": "2026-04-24",
+    "segments": [
+      {
+        "book": "Osée",
+        "chapter_start": 6,
+        "verse_start": 1,
+        "chapter_end": 7,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 336,
+    "date": "2026-04-25",
+    "segments": [
+      {
+        "book": "Osée",
+        "chapter_start": 8,
+        "verse_start": 1,
+        "chapter_end": 9,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 337,
+    "date": "2026-04-26",
+    "segments": [
+      {
+        "book": "Osée",
+        "chapter_start": 10,
+        "verse_start": 1,
+        "chapter_end": 11,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 338,
+    "date": "2026-04-27",
+    "segments": [
+      {
+        "book": "Osée",
+        "chapter_start": 12,
+        "verse_start": 1,
+        "chapter_end": 13,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 339,
+    "date": "2026-04-28",
+    "segments": [
+      {
+        "book": "Osée",
+        "chapter_start": 14,
+        "verse_start": 1,
+        "chapter_end": 14,
+        "verse_end": null
+      },
+      {
+        "book": "Joël",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 1,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 340,
+    "date": "2026-04-29",
+    "segments": [
+      {
+        "book": "Joël",
+        "chapter_start": 2,
+        "verse_start": 1,
+        "chapter_end": 3,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 341,
+    "date": "2026-04-30",
+    "segments": [
+      {
+        "book": "Amos",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 2,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 342,
+    "date": "2026-05-01",
+    "segments": [
+      {
+        "book": "Amos",
+        "chapter_start": 3,
+        "verse_start": 1,
+        "chapter_end": 4,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 343,
+    "date": "2026-05-02",
+    "segments": [
+      {
+        "book": "Amos",
+        "chapter_start": 5,
+        "verse_start": 1,
+        "chapter_end": 6,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 344,
+    "date": "2026-05-03",
+    "segments": [
+      {
+        "book": "Amos",
+        "chapter_start": 7,
+        "verse_start": 1,
+        "chapter_end": 8,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 345,
+    "date": "2026-05-04",
+    "segments": [
+      {
+        "book": "Amos",
+        "chapter_start": 9,
+        "verse_start": 1,
+        "chapter_end": 9,
+        "verse_end": null
+      },
+      {
+        "book": "Abdias",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 1,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 346,
+    "date": "2026-05-05",
+    "segments": [
+      {
+        "book": "Jonas",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 2,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 347,
+    "date": "2026-05-06",
+    "segments": [
+      {
+        "book": "Jonas",
+        "chapter_start": 3,
+        "verse_start": 1,
+        "chapter_end": 4,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 348,
+    "date": "2026-05-07",
+    "segments": [
+      {
+        "book": "Michée",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 2,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 349,
+    "date": "2026-05-08",
+    "segments": [
+      {
+        "book": "Michée",
+        "chapter_start": 3,
+        "verse_start": 1,
+        "chapter_end": 4,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 350,
+    "date": "2026-05-09",
+    "segments": [
+      {
+        "book": "Michée",
+        "chapter_start": 5,
+        "verse_start": 1,
+        "chapter_end": 6,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 351,
+    "date": "2026-05-10",
+    "segments": [
+      {
+        "book": "Michée",
+        "chapter_start": 7,
+        "verse_start": 1,
+        "chapter_end": 7,
+        "verse_end": null
+      },
+      {
+        "book": "Nahum",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 1,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 352,
+    "date": "2026-05-11",
+    "segments": [
+      {
+        "book": "Nahum",
+        "chapter_start": 2,
+        "verse_start": 1,
+        "chapter_end": 3,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 353,
+    "date": "2026-05-12",
+    "segments": [
+      {
+        "book": "Habacuc",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 2,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 354,
+    "date": "2026-05-13",
+    "segments": [
+      {
+        "book": "Habacuc",
+        "chapter_start": 3,
+        "verse_start": 1,
+        "chapter_end": 3,
+        "verse_end": null
+      },
+      {
+        "book": "Sophonie",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 1,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 355,
+    "date": "2026-05-14",
+    "segments": [
+      {
+        "book": "Sophonie",
+        "chapter_start": 2,
+        "verse_start": 1,
+        "chapter_end": 3,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 356,
+    "date": "2026-05-15",
+    "segments": [
+      {
+        "book": "Aggée",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 2,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 357,
+    "date": "2026-05-16",
+    "segments": [
+      {
+        "book": "Zacharie",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 2,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 358,
+    "date": "2026-05-17",
+    "segments": [
+      {
+        "book": "Zacharie",
+        "chapter_start": 3,
+        "verse_start": 1,
+        "chapter_end": 4,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 359,
+    "date": "2026-05-18",
+    "segments": [
+      {
+        "book": "Zacharie",
+        "chapter_start": 5,
+        "verse_start": 1,
+        "chapter_end": 6,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 360,
+    "date": "2026-05-19",
+    "segments": [
+      {
+        "book": "Zacharie",
+        "chapter_start": 7,
+        "verse_start": 1,
+        "chapter_end": 8,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 361,
+    "date": "2026-05-20",
+    "segments": [
+      {
+        "book": "Zacharie",
+        "chapter_start": 9,
+        "verse_start": 1,
+        "chapter_end": 10,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 362,
+    "date": "2026-05-21",
+    "segments": [
+      {
+        "book": "Zacharie",
+        "chapter_start": 11,
+        "verse_start": 1,
+        "chapter_end": 12,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 363,
+    "date": "2026-05-22",
+    "segments": [
+      {
+        "book": "Zacharie",
+        "chapter_start": 13,
+        "verse_start": 1,
+        "chapter_end": 14,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 364,
+    "date": "2026-05-23",
+    "segments": [
+      {
+        "book": "Malachie",
+        "chapter_start": 1,
+        "verse_start": 1,
+        "chapter_end": 2,
+        "verse_end": null
+      }
+    ]
+  },
+  {
+    "day": 365,
+    "date": "2026-05-24",
+    "segments": [
+      {
+        "book": "Malachie",
+        "chapter_start": 3,
+        "verse_start": 1,
+        "chapter_end": 4,
+        "verse_end": null
+      }
+    ]
+  }
+]

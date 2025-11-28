@@ -1,0 +1,4546 @@
+[
+  {
+    "day": 1,
+    "date": "2025-05-25",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 1,
+        "verse_start": 1,
+        "verse_end": 6
+      },
+      {
+        "psalm": 2,
+        "verse_start": 1,
+        "verse_end": 12
+      },
+      {
+        "psalm": 3,
+        "verse_start": 1,
+        "verse_end": 8
+      },
+      {
+        "psalm": 4,
+        "verse_start": 1,
+        "verse_end": 1
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "date": "2025-05-26",
+    "book": "Proverbes",
+    "chapter": 1,
+    "verse_start": 1,
+    "verse_end": 11,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 3,
+    "date": "2025-05-27",
+    "book": "Ecclésiaste",
+    "chapter": 1,
+    "verse_start": 1,
+    "verse_end": 3,
+    "part_index": 1,
+    "part_count": 7
+  },
+  {
+    "day": 4,
+    "date": "2025-05-28",
+    "book": "Lamentations",
+    "chapter": 1,
+    "verse_start": 1,
+    "verse_end": 2,
+    "part_index": 1,
+    "part_count": 13
+  },
+  {
+    "day": 5,
+    "date": "2025-05-29",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 4,
+        "verse_start": 2,
+        "verse_end": 8
+      },
+      {
+        "psalm": 5,
+        "verse_start": 1,
+        "verse_end": 12
+      },
+      {
+        "psalm": 6,
+        "verse_start": 1,
+        "verse_end": 8
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "date": "2025-05-30",
+    "book": "Proverbes",
+    "chapter": 1,
+    "verse_start": 12,
+    "verse_end": 22,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 7,
+    "date": "2025-05-31",
+    "book": "Ecclésiaste",
+    "chapter": 1,
+    "verse_start": 4,
+    "verse_end": 6,
+    "part_index": 2,
+    "part_count": 7
+  },
+  {
+    "day": 8,
+    "date": "2025-06-01",
+    "book": "Lamentations",
+    "chapter": 1,
+    "verse_start": 3,
+    "verse_end": 4,
+    "part_index": 2,
+    "part_count": 13
+  },
+  {
+    "day": 9,
+    "date": "2025-06-02",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 6,
+        "verse_start": 9,
+        "verse_end": 10
+      },
+      {
+        "psalm": 7,
+        "verse_start": 1,
+        "verse_end": 17
+      },
+      {
+        "psalm": 8,
+        "verse_start": 1,
+        "verse_end": 8
+      }
+    ]
+  },
+  {
+    "day": 10,
+    "date": "2025-06-03",
+    "book": "Proverbes",
+    "chapter": 1,
+    "verse_start": 23,
+    "verse_end": 33,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 11,
+    "date": "2025-06-04",
+    "book": "Ecclésiaste",
+    "chapter": 1,
+    "verse_start": 7,
+    "verse_end": 9,
+    "part_index": 3,
+    "part_count": 7
+  },
+  {
+    "day": 12,
+    "date": "2025-06-05",
+    "book": "Lamentations",
+    "chapter": 1,
+    "verse_start": 5,
+    "verse_end": 6,
+    "part_index": 3,
+    "part_count": 13
+  },
+  {
+    "day": 13,
+    "date": "2025-06-06",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 8,
+        "verse_start": 9,
+        "verse_end": 9
+      },
+      {
+        "psalm": 9,
+        "verse_start": 1,
+        "verse_end": 20
+      },
+      {
+        "psalm": 10,
+        "verse_start": 1,
+        "verse_end": 6
+      }
+    ]
+  },
+  {
+    "day": 14,
+    "date": "2025-06-07",
+    "book": "Proverbes",
+    "chapter": 2,
+    "verse_start": 1,
+    "verse_end": 11,
+    "part_index": 1,
+    "part_count": 2
+  },
+  {
+    "day": 15,
+    "date": "2025-06-08",
+    "book": "Ecclésiaste",
+    "chapter": 1,
+    "verse_start": 10,
+    "verse_end": 12,
+    "part_index": 4,
+    "part_count": 7
+  },
+  {
+    "day": 16,
+    "date": "2025-06-09",
+    "book": "Lamentations",
+    "chapter": 1,
+    "verse_start": 7,
+    "verse_end": 8,
+    "part_index": 4,
+    "part_count": 13
+  },
+  {
+    "day": 17,
+    "date": "2025-06-10",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 10,
+        "verse_start": 7,
+        "verse_end": 18
+      },
+      {
+        "psalm": 11,
+        "verse_start": 1,
+        "verse_end": 7
+      },
+      {
+        "psalm": 12,
+        "verse_start": 1,
+        "verse_end": 8
+      }
+    ]
+  },
+  {
+    "day": 18,
+    "date": "2025-06-11",
+    "book": "Proverbes",
+    "chapter": 2,
+    "verse_start": 12,
+    "verse_end": 22,
+    "part_index": 2,
+    "part_count": 2
+  },
+  {
+    "day": 19,
+    "date": "2025-06-12",
+    "book": "Ecclésiaste",
+    "chapter": 1,
+    "verse_start": 13,
+    "verse_end": 14,
+    "part_index": 5,
+    "part_count": 7
+  },
+  {
+    "day": 20,
+    "date": "2025-06-13",
+    "book": "Lamentations",
+    "chapter": 1,
+    "verse_start": 9,
+    "verse_end": 10,
+    "part_index": 5,
+    "part_count": 13
+  },
+  {
+    "day": 21,
+    "date": "2025-06-14",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 13,
+        "verse_start": 1,
+        "verse_end": 6
+      },
+      {
+        "psalm": 14,
+        "verse_start": 1,
+        "verse_end": 7
+      },
+      {
+        "psalm": 15,
+        "verse_start": 1,
+        "verse_end": 5
+      },
+      {
+        "psalm": 16,
+        "verse_start": 1,
+        "verse_end": 9
+      }
+    ]
+  },
+  {
+    "day": 22,
+    "date": "2025-06-15",
+    "book": "Proverbes",
+    "chapter": 3,
+    "verse_start": 1,
+    "verse_end": 12,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 23,
+    "date": "2025-06-16",
+    "book": "Ecclésiaste",
+    "chapter": 1,
+    "verse_start": 15,
+    "verse_end": 16,
+    "part_index": 6,
+    "part_count": 7
+  },
+  {
+    "day": 24,
+    "date": "2025-06-17",
+    "book": "Lamentations",
+    "chapter": 1,
+    "verse_start": 11,
+    "verse_end": 12,
+    "part_index": 6,
+    "part_count": 13
+  },
+  {
+    "day": 25,
+    "date": "2025-06-18",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 16,
+        "verse_start": 10,
+        "verse_end": 11
+      },
+      {
+        "psalm": 17,
+        "verse_start": 1,
+        "verse_end": 15
+      },
+      {
+        "psalm": 18,
+        "verse_start": 1,
+        "verse_end": 10
+      }
+    ]
+  },
+  {
+    "day": 26,
+    "date": "2025-06-19",
+    "book": "Proverbes",
+    "chapter": 3,
+    "verse_start": 13,
+    "verse_end": 24,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 27,
+    "date": "2025-06-20",
+    "book": "Ecclésiaste",
+    "chapter": 1,
+    "verse_start": 17,
+    "verse_end": 18,
+    "part_index": 7,
+    "part_count": 7
+  },
+  {
+    "day": 28,
+    "date": "2025-06-21",
+    "book": "Lamentations",
+    "chapter": 1,
+    "verse_start": 13,
+    "verse_end": 14,
+    "part_index": 7,
+    "part_count": 13
+  },
+  {
+    "day": 29,
+    "date": "2025-06-22",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 18,
+        "verse_start": 11,
+        "verse_end": 37
+      }
+    ]
+  },
+  {
+    "day": 30,
+    "date": "2025-06-23",
+    "book": "Proverbes",
+    "chapter": 3,
+    "verse_start": 25,
+    "verse_end": 35,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 31,
+    "date": "2025-06-24",
+    "book": "Ecclésiaste",
+    "chapter": 2,
+    "verse_start": 1,
+    "verse_end": 3,
+    "part_index": 1,
+    "part_count": 11
+  },
+  {
+    "day": 32,
+    "date": "2025-06-25",
+    "book": "Lamentations",
+    "chapter": 1,
+    "verse_start": 15,
+    "verse_end": 16,
+    "part_index": 8,
+    "part_count": 13
+  },
+  {
+    "day": 33,
+    "date": "2025-06-26",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 18,
+        "verse_start": 38,
+        "verse_end": 50
+      },
+      {
+        "psalm": 19,
+        "verse_start": 1,
+        "verse_end": 14
+      }
+    ]
+  },
+  {
+    "day": 34,
+    "date": "2025-06-27",
+    "book": "Proverbes",
+    "chapter": 4,
+    "verse_start": 1,
+    "verse_end": 9,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 35,
+    "date": "2025-06-28",
+    "book": "Ecclésiaste",
+    "chapter": 2,
+    "verse_start": 4,
+    "verse_end": 6,
+    "part_index": 2,
+    "part_count": 11
+  },
+  {
+    "day": 36,
+    "date": "2025-06-29",
+    "book": "Lamentations",
+    "chapter": 1,
+    "verse_start": 17,
+    "verse_end": 18,
+    "part_index": 9,
+    "part_count": 13
+  },
+  {
+    "day": 37,
+    "date": "2025-06-30",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 20,
+        "verse_start": 1,
+        "verse_end": 9
+      },
+      {
+        "psalm": 21,
+        "verse_start": 1,
+        "verse_end": 13
+      },
+      {
+        "psalm": 22,
+        "verse_start": 1,
+        "verse_end": 5
+      }
+    ]
+  },
+  {
+    "day": 38,
+    "date": "2025-07-01",
+    "book": "Proverbes",
+    "chapter": 4,
+    "verse_start": 10,
+    "verse_end": 18,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 39,
+    "date": "2025-07-02",
+    "book": "Ecclésiaste",
+    "chapter": 2,
+    "verse_start": 7,
+    "verse_end": 9,
+    "part_index": 3,
+    "part_count": 11
+  },
+  {
+    "day": 40,
+    "date": "2025-07-03",
+    "book": "Lamentations",
+    "chapter": 1,
+    "verse_start": 19,
+    "verse_end": 19,
+    "part_index": 10,
+    "part_count": 13
+  },
+  {
+    "day": 41,
+    "date": "2025-07-04",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 22,
+        "verse_start": 6,
+        "verse_end": 31
+      },
+      {
+        "psalm": 23,
+        "verse_start": 1,
+        "verse_end": 1
+      }
+    ]
+  },
+  {
+    "day": 42,
+    "date": "2025-07-05",
+    "book": "Proverbes",
+    "chapter": 4,
+    "verse_start": 19,
+    "verse_end": 27,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 43,
+    "date": "2025-07-06",
+    "book": "Ecclésiaste",
+    "chapter": 2,
+    "verse_start": 10,
+    "verse_end": 12,
+    "part_index": 4,
+    "part_count": 11
+  },
+  {
+    "day": 44,
+    "date": "2025-07-07",
+    "book": "Lamentations",
+    "chapter": 1,
+    "verse_start": 20,
+    "verse_end": 20,
+    "part_index": 11,
+    "part_count": 13
+  },
+  {
+    "day": 45,
+    "date": "2025-07-08",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 23,
+        "verse_start": 2,
+        "verse_end": 6
+      },
+      {
+        "psalm": 24,
+        "verse_start": 1,
+        "verse_end": 10
+      },
+      {
+        "psalm": 25,
+        "verse_start": 1,
+        "verse_end": 12
+      }
+    ]
+  },
+  {
+    "day": 46,
+    "date": "2025-07-09",
+    "book": "Proverbes",
+    "chapter": 5,
+    "verse_start": 1,
+    "verse_end": 12,
+    "part_index": 1,
+    "part_count": 2
+  },
+  {
+    "day": 47,
+    "date": "2025-07-10",
+    "book": "Ecclésiaste",
+    "chapter": 2,
+    "verse_start": 13,
+    "verse_end": 14,
+    "part_index": 5,
+    "part_count": 11
+  },
+  {
+    "day": 48,
+    "date": "2025-07-11",
+    "book": "Lamentations",
+    "chapter": 1,
+    "verse_start": 21,
+    "verse_end": 21,
+    "part_index": 12,
+    "part_count": 13
+  },
+  {
+    "day": 49,
+    "date": "2025-07-12",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 25,
+        "verse_start": 13,
+        "verse_end": 22
+      },
+      {
+        "psalm": 26,
+        "verse_start": 1,
+        "verse_end": 12
+      },
+      {
+        "psalm": 27,
+        "verse_start": 1,
+        "verse_end": 5
+      }
+    ]
+  },
+  {
+    "day": 50,
+    "date": "2025-07-13",
+    "book": "Proverbes",
+    "chapter": 5,
+    "verse_start": 13,
+    "verse_end": 23,
+    "part_index": 2,
+    "part_count": 2
+  },
+  {
+    "day": 51,
+    "date": "2025-07-14",
+    "book": "Ecclésiaste",
+    "chapter": 2,
+    "verse_start": 15,
+    "verse_end": 16,
+    "part_index": 6,
+    "part_count": 11
+  },
+  {
+    "day": 52,
+    "date": "2025-07-15",
+    "book": "Lamentations",
+    "chapter": 1,
+    "verse_start": 22,
+    "verse_end": 22,
+    "part_index": 13,
+    "part_count": 13
+  },
+  {
+    "day": 53,
+    "date": "2025-07-16",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 27,
+        "verse_start": 6,
+        "verse_end": 14
+      },
+      {
+        "psalm": 28,
+        "verse_start": 1,
+        "verse_end": 9
+      },
+      {
+        "psalm": 29,
+        "verse_start": 1,
+        "verse_end": 9
+      }
+    ]
+  },
+  {
+    "day": 54,
+    "date": "2025-07-17",
+    "book": "Proverbes",
+    "chapter": 6,
+    "verse_start": 1,
+    "verse_end": 12,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 55,
+    "date": "2025-07-18",
+    "book": "Ecclésiaste",
+    "chapter": 2,
+    "verse_start": 17,
+    "verse_end": 18,
+    "part_index": 7,
+    "part_count": 11
+  },
+  {
+    "day": 56,
+    "date": "2025-07-19",
+    "book": "Lamentations",
+    "chapter": 2,
+    "verse_start": 1,
+    "verse_end": 2,
+    "part_index": 1,
+    "part_count": 13
+  },
+  {
+    "day": 57,
+    "date": "2025-07-20",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 29,
+        "verse_start": 10,
+        "verse_end": 11
+      },
+      {
+        "psalm": 30,
+        "verse_start": 1,
+        "verse_end": 12
+      },
+      {
+        "psalm": 31,
+        "verse_start": 1,
+        "verse_end": 13
+      }
+    ]
+  },
+  {
+    "day": 58,
+    "date": "2025-07-21",
+    "book": "Proverbes",
+    "chapter": 6,
+    "verse_start": 13,
+    "verse_end": 24,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 59,
+    "date": "2025-07-22",
+    "book": "Ecclésiaste",
+    "chapter": 2,
+    "verse_start": 19,
+    "verse_end": 20,
+    "part_index": 8,
+    "part_count": 11
+  },
+  {
+    "day": 60,
+    "date": "2025-07-23",
+    "book": "Lamentations",
+    "chapter": 2,
+    "verse_start": 3,
+    "verse_end": 4,
+    "part_index": 2,
+    "part_count": 13
+  },
+  {
+    "day": 61,
+    "date": "2025-07-24",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 31,
+        "verse_start": 14,
+        "verse_end": 24
+      },
+      {
+        "psalm": 32,
+        "verse_start": 1,
+        "verse_end": 11
+      },
+      {
+        "psalm": 33,
+        "verse_start": 1,
+        "verse_end": 5
+      }
+    ]
+  },
+  {
+    "day": 62,
+    "date": "2025-07-25",
+    "book": "Proverbes",
+    "chapter": 6,
+    "verse_start": 25,
+    "verse_end": 35,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 63,
+    "date": "2025-07-26",
+    "book": "Ecclésiaste",
+    "chapter": 2,
+    "verse_start": 21,
+    "verse_end": 22,
+    "part_index": 9,
+    "part_count": 11
+  },
+  {
+    "day": 64,
+    "date": "2025-07-27",
+    "book": "Lamentations",
+    "chapter": 2,
+    "verse_start": 5,
+    "verse_end": 6,
+    "part_index": 3,
+    "part_count": 13
+  },
+  {
+    "day": 65,
+    "date": "2025-07-28",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 33,
+        "verse_start": 6,
+        "verse_end": 22
+      },
+      {
+        "psalm": 34,
+        "verse_start": 1,
+        "verse_end": 10
+      }
+    ]
+  },
+  {
+    "day": 66,
+    "date": "2025-07-29",
+    "book": "Proverbes",
+    "chapter": 7,
+    "verse_start": 1,
+    "verse_end": 9,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 67,
+    "date": "2025-07-30",
+    "book": "Ecclésiaste",
+    "chapter": 2,
+    "verse_start": 23,
+    "verse_end": 24,
+    "part_index": 10,
+    "part_count": 11
+  },
+  {
+    "day": 68,
+    "date": "2025-07-31",
+    "book": "Lamentations",
+    "chapter": 2,
+    "verse_start": 7,
+    "verse_end": 8,
+    "part_index": 4,
+    "part_count": 13
+  },
+  {
+    "day": 69,
+    "date": "2025-08-01",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 34,
+        "verse_start": 11,
+        "verse_end": 22
+      },
+      {
+        "psalm": 35,
+        "verse_start": 1,
+        "verse_end": 15
+      }
+    ]
+  },
+  {
+    "day": 70,
+    "date": "2025-08-02",
+    "book": "Proverbes",
+    "chapter": 7,
+    "verse_start": 10,
+    "verse_end": 18,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 71,
+    "date": "2025-08-03",
+    "book": "Ecclésiaste",
+    "chapter": 2,
+    "verse_start": 25,
+    "verse_end": 26,
+    "part_index": 11,
+    "part_count": 11
+  },
+  {
+    "day": 72,
+    "date": "2025-08-04",
+    "book": "Lamentations",
+    "chapter": 2,
+    "verse_start": 9,
+    "verse_end": 10,
+    "part_index": 5,
+    "part_count": 13
+  },
+  {
+    "day": 73,
+    "date": "2025-08-05",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 35,
+        "verse_start": 16,
+        "verse_end": 28
+      },
+      {
+        "psalm": 36,
+        "verse_start": 1,
+        "verse_end": 12
+      },
+      {
+        "psalm": 37,
+        "verse_start": 1,
+        "verse_end": 2
+      }
+    ]
+  },
+  {
+    "day": 74,
+    "date": "2025-08-06",
+    "book": "Proverbes",
+    "chapter": 7,
+    "verse_start": 19,
+    "verse_end": 27,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 75,
+    "date": "2025-08-07",
+    "book": "Ecclésiaste",
+    "chapter": 3,
+    "verse_start": 1,
+    "verse_end": 3,
+    "part_index": 1,
+    "part_count": 9
+  },
+  {
+    "day": 76,
+    "date": "2025-08-08",
+    "book": "Lamentations",
+    "chapter": 2,
+    "verse_start": 11,
+    "verse_end": 12,
+    "part_index": 6,
+    "part_count": 13
+  },
+  {
+    "day": 77,
+    "date": "2025-08-09",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 37,
+        "verse_start": 3,
+        "verse_end": 29
+      }
+    ]
+  },
+  {
+    "day": 78,
+    "date": "2025-08-10",
+    "book": "Proverbes",
+    "chapter": 8,
+    "verse_start": 1,
+    "verse_end": 9,
+    "part_index": 1,
+    "part_count": 4
+  },
+  {
+    "day": 79,
+    "date": "2025-08-11",
+    "book": "Ecclésiaste",
+    "chapter": 3,
+    "verse_start": 4,
+    "verse_end": 6,
+    "part_index": 2,
+    "part_count": 9
+  },
+  {
+    "day": 80,
+    "date": "2025-08-12",
+    "book": "Lamentations",
+    "chapter": 2,
+    "verse_start": 13,
+    "verse_end": 14,
+    "part_index": 7,
+    "part_count": 13
+  },
+  {
+    "day": 81,
+    "date": "2025-08-13",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 37,
+        "verse_start": 30,
+        "verse_end": 40
+      },
+      {
+        "psalm": 38,
+        "verse_start": 1,
+        "verse_end": 16
+      }
+    ]
+  },
+  {
+    "day": 82,
+    "date": "2025-08-14",
+    "book": "Proverbes",
+    "chapter": 8,
+    "verse_start": 10,
+    "verse_end": 18,
+    "part_index": 2,
+    "part_count": 4
+  },
+  {
+    "day": 83,
+    "date": "2025-08-15",
+    "book": "Ecclésiaste",
+    "chapter": 3,
+    "verse_start": 7,
+    "verse_end": 9,
+    "part_index": 3,
+    "part_count": 9
+  },
+  {
+    "day": 84,
+    "date": "2025-08-16",
+    "book": "Lamentations",
+    "chapter": 2,
+    "verse_start": 15,
+    "verse_end": 16,
+    "part_index": 8,
+    "part_count": 13
+  },
+  {
+    "day": 85,
+    "date": "2025-08-17",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 38,
+        "verse_start": 17,
+        "verse_end": 22
+      },
+      {
+        "psalm": 39,
+        "verse_start": 1,
+        "verse_end": 13
+      },
+      {
+        "psalm": 40,
+        "verse_start": 1,
+        "verse_end": 8
+      }
+    ]
+  },
+  {
+    "day": 86,
+    "date": "2025-08-18",
+    "book": "Proverbes",
+    "chapter": 8,
+    "verse_start": 19,
+    "verse_end": 27,
+    "part_index": 3,
+    "part_count": 4
+  },
+  {
+    "day": 87,
+    "date": "2025-08-19",
+    "book": "Ecclésiaste",
+    "chapter": 3,
+    "verse_start": 10,
+    "verse_end": 12,
+    "part_index": 4,
+    "part_count": 9
+  },
+  {
+    "day": 88,
+    "date": "2025-08-20",
+    "book": "Lamentations",
+    "chapter": 2,
+    "verse_start": 17,
+    "verse_end": 18,
+    "part_index": 9,
+    "part_count": 13
+  },
+  {
+    "day": 89,
+    "date": "2025-08-21",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 40,
+        "verse_start": 9,
+        "verse_end": 17
+      },
+      {
+        "psalm": 41,
+        "verse_start": 1,
+        "verse_end": 13
+      },
+      {
+        "psalm": 42,
+        "verse_start": 1,
+        "verse_end": 5
+      }
+    ]
+  },
+  {
+    "day": 90,
+    "date": "2025-08-22",
+    "book": "Proverbes",
+    "chapter": 8,
+    "verse_start": 28,
+    "verse_end": 36,
+    "part_index": 4,
+    "part_count": 4
+  },
+  {
+    "day": 91,
+    "date": "2025-08-23",
+    "book": "Ecclésiaste",
+    "chapter": 3,
+    "verse_start": 13,
+    "verse_end": 14,
+    "part_index": 5,
+    "part_count": 9
+  },
+  {
+    "day": 92,
+    "date": "2025-08-24",
+    "book": "Lamentations",
+    "chapter": 2,
+    "verse_start": 19,
+    "verse_end": 19,
+    "part_index": 10,
+    "part_count": 13
+  },
+  {
+    "day": 93,
+    "date": "2025-08-25",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 42,
+        "verse_start": 6,
+        "verse_end": 11
+      },
+      {
+        "psalm": 43,
+        "verse_start": 1,
+        "verse_end": 5
+      },
+      {
+        "psalm": 44,
+        "verse_start": 1,
+        "verse_end": 16
+      }
+    ]
+  },
+  {
+    "day": 94,
+    "date": "2025-08-26",
+    "book": "Proverbes",
+    "chapter": 9,
+    "verse_start": 1,
+    "verse_end": 9,
+    "part_index": 1,
+    "part_count": 2
+  },
+  {
+    "day": 95,
+    "date": "2025-08-27",
+    "book": "Ecclésiaste",
+    "chapter": 3,
+    "verse_start": 15,
+    "verse_end": 16,
+    "part_index": 6,
+    "part_count": 9
+  },
+  {
+    "day": 96,
+    "date": "2025-08-28",
+    "book": "Lamentations",
+    "chapter": 2,
+    "verse_start": 20,
+    "verse_end": 20,
+    "part_index": 11,
+    "part_count": 13
+  },
+  {
+    "day": 97,
+    "date": "2025-08-29",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 44,
+        "verse_start": 17,
+        "verse_end": 26
+      },
+      {
+        "psalm": 45,
+        "verse_start": 1,
+        "verse_end": 17
+      }
+    ]
+  },
+  {
+    "day": 98,
+    "date": "2025-08-30",
+    "book": "Proverbes",
+    "chapter": 9,
+    "verse_start": 10,
+    "verse_end": 18,
+    "part_index": 2,
+    "part_count": 2
+  },
+  {
+    "day": 99,
+    "date": "2025-08-31",
+    "book": "Ecclésiaste",
+    "chapter": 3,
+    "verse_start": 17,
+    "verse_end": 18,
+    "part_index": 7,
+    "part_count": 9
+  },
+  {
+    "day": 100,
+    "date": "2025-09-01",
+    "book": "Lamentations",
+    "chapter": 2,
+    "verse_start": 21,
+    "verse_end": 21,
+    "part_index": 12,
+    "part_count": 13
+  },
+  {
+    "day": 101,
+    "date": "2025-09-02",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 46,
+        "verse_start": 1,
+        "verse_end": 11
+      },
+      {
+        "psalm": 47,
+        "verse_start": 1,
+        "verse_end": 9
+      },
+      {
+        "psalm": 48,
+        "verse_start": 1,
+        "verse_end": 7
+      }
+    ]
+  },
+  {
+    "day": 102,
+    "date": "2025-09-03",
+    "book": "Proverbes",
+    "chapter": 10,
+    "verse_start": 1,
+    "verse_end": 11,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 103,
+    "date": "2025-09-04",
+    "book": "Ecclésiaste",
+    "chapter": 3,
+    "verse_start": 19,
+    "verse_end": 20,
+    "part_index": 8,
+    "part_count": 9
+  },
+  {
+    "day": 104,
+    "date": "2025-09-05",
+    "book": "Lamentations",
+    "chapter": 2,
+    "verse_start": 22,
+    "verse_end": 22,
+    "part_index": 13,
+    "part_count": 13
+  },
+  {
+    "day": 105,
+    "date": "2025-09-06",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 48,
+        "verse_start": 8,
+        "verse_end": 14
+      },
+      {
+        "psalm": 49,
+        "verse_start": 1,
+        "verse_end": 20
+      }
+    ]
+  },
+  {
+    "day": 106,
+    "date": "2025-09-07",
+    "book": "Proverbes",
+    "chapter": 10,
+    "verse_start": 12,
+    "verse_end": 22,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 107,
+    "date": "2025-09-08",
+    "book": "Ecclésiaste",
+    "chapter": 3,
+    "verse_start": 21,
+    "verse_end": 22,
+    "part_index": 9,
+    "part_count": 9
+  },
+  {
+    "day": 108,
+    "date": "2025-09-09",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 1,
+    "verse_end": 2,
+    "part_index": 1,
+    "part_count": 39
+  },
+  {
+    "day": 109,
+    "date": "2025-09-10",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 50,
+        "verse_start": 1,
+        "verse_end": 23
+      },
+      {
+        "psalm": 51,
+        "verse_start": 1,
+        "verse_end": 4
+      }
+    ]
+  },
+  {
+    "day": 110,
+    "date": "2025-09-11",
+    "book": "Proverbes",
+    "chapter": 10,
+    "verse_start": 23,
+    "verse_end": 32,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 111,
+    "date": "2025-09-12",
+    "book": "Ecclésiaste",
+    "chapter": 4,
+    "verse_start": 1,
+    "verse_end": 3,
+    "part_index": 1,
+    "part_count": 7
+  },
+  {
+    "day": 112,
+    "date": "2025-09-13",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 3,
+    "verse_end": 4,
+    "part_index": 2,
+    "part_count": 39
+  },
+  {
+    "day": 113,
+    "date": "2025-09-14",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 51,
+        "verse_start": 5,
+        "verse_end": 19
+      },
+      {
+        "psalm": 52,
+        "verse_start": 1,
+        "verse_end": 9
+      },
+      {
+        "psalm": 53,
+        "verse_start": 1,
+        "verse_end": 3
+      }
+    ]
+  },
+  {
+    "day": 114,
+    "date": "2025-09-15",
+    "book": "Proverbes",
+    "chapter": 11,
+    "verse_start": 1,
+    "verse_end": 11,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 115,
+    "date": "2025-09-16",
+    "book": "Ecclésiaste",
+    "chapter": 4,
+    "verse_start": 4,
+    "verse_end": 6,
+    "part_index": 2,
+    "part_count": 7
+  },
+  {
+    "day": 116,
+    "date": "2025-09-17",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 5,
+    "verse_end": 6,
+    "part_index": 3,
+    "part_count": 39
+  },
+  {
+    "day": 117,
+    "date": "2025-09-18",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 53,
+        "verse_start": 4,
+        "verse_end": 6
+      },
+      {
+        "psalm": 54,
+        "verse_start": 1,
+        "verse_end": 7
+      },
+      {
+        "psalm": 55,
+        "verse_start": 1,
+        "verse_end": 17
+      }
+    ]
+  },
+  {
+    "day": 118,
+    "date": "2025-09-19",
+    "book": "Proverbes",
+    "chapter": 11,
+    "verse_start": 12,
+    "verse_end": 21,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 119,
+    "date": "2025-09-20",
+    "book": "Ecclésiaste",
+    "chapter": 4,
+    "verse_start": 7,
+    "verse_end": 8,
+    "part_index": 3,
+    "part_count": 7
+  },
+  {
+    "day": 120,
+    "date": "2025-09-21",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 7,
+    "verse_end": 8,
+    "part_index": 4,
+    "part_count": 39
+  },
+  {
+    "day": 121,
+    "date": "2025-09-22",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 55,
+        "verse_start": 18,
+        "verse_end": 23
+      },
+      {
+        "psalm": 56,
+        "verse_start": 1,
+        "verse_end": 13
+      },
+      {
+        "psalm": 57,
+        "verse_start": 1,
+        "verse_end": 8
+      }
+    ]
+  },
+  {
+    "day": 122,
+    "date": "2025-09-23",
+    "book": "Proverbes",
+    "chapter": 11,
+    "verse_start": 22,
+    "verse_end": 31,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 123,
+    "date": "2025-09-24",
+    "book": "Ecclésiaste",
+    "chapter": 4,
+    "verse_start": 9,
+    "verse_end": 10,
+    "part_index": 4,
+    "part_count": 7
+  },
+  {
+    "day": 124,
+    "date": "2025-09-25",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 9,
+    "verse_end": 10,
+    "part_index": 5,
+    "part_count": 39
+  },
+  {
+    "day": 125,
+    "date": "2025-09-26",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 57,
+        "verse_start": 9,
+        "verse_end": 11
+      },
+      {
+        "psalm": 58,
+        "verse_start": 1,
+        "verse_end": 11
+      },
+      {
+        "psalm": 59,
+        "verse_start": 1,
+        "verse_end": 13
+      }
+    ]
+  },
+  {
+    "day": 126,
+    "date": "2025-09-27",
+    "book": "Proverbes",
+    "chapter": 12,
+    "verse_start": 1,
+    "verse_end": 10,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 127,
+    "date": "2025-09-28",
+    "book": "Ecclésiaste",
+    "chapter": 4,
+    "verse_start": 11,
+    "verse_end": 12,
+    "part_index": 5,
+    "part_count": 7
+  },
+  {
+    "day": 128,
+    "date": "2025-09-29",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 11,
+    "verse_end": 12,
+    "part_index": 6,
+    "part_count": 39
+  },
+  {
+    "day": 129,
+    "date": "2025-09-30",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 59,
+        "verse_start": 14,
+        "verse_end": 17
+      },
+      {
+        "psalm": 60,
+        "verse_start": 1,
+        "verse_end": 12
+      },
+      {
+        "psalm": 61,
+        "verse_start": 1,
+        "verse_end": 8
+      },
+      {
+        "psalm": 62,
+        "verse_start": 1,
+        "verse_end": 3
+      }
+    ]
+  },
+  {
+    "day": 130,
+    "date": "2025-10-01",
+    "book": "Proverbes",
+    "chapter": 12,
+    "verse_start": 11,
+    "verse_end": 19,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 131,
+    "date": "2025-10-02",
+    "book": "Ecclésiaste",
+    "chapter": 4,
+    "verse_start": 13,
+    "verse_end": 14,
+    "part_index": 6,
+    "part_count": 7
+  },
+  {
+    "day": 132,
+    "date": "2025-10-03",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 13,
+    "verse_end": 14,
+    "part_index": 7,
+    "part_count": 39
+  },
+  {
+    "day": 133,
+    "date": "2025-10-04",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 62,
+        "verse_start": 4,
+        "verse_end": 12
+      },
+      {
+        "psalm": 63,
+        "verse_start": 1,
+        "verse_end": 11
+      },
+      {
+        "psalm": 64,
+        "verse_start": 1,
+        "verse_end": 7
+      }
+    ]
+  },
+  {
+    "day": 134,
+    "date": "2025-10-05",
+    "book": "Proverbes",
+    "chapter": 12,
+    "verse_start": 20,
+    "verse_end": 28,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 135,
+    "date": "2025-10-06",
+    "book": "Ecclésiaste",
+    "chapter": 4,
+    "verse_start": 15,
+    "verse_end": 16,
+    "part_index": 7,
+    "part_count": 7
+  },
+  {
+    "day": 136,
+    "date": "2025-10-07",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 15,
+    "verse_end": 16,
+    "part_index": 8,
+    "part_count": 39
+  },
+  {
+    "day": 137,
+    "date": "2025-10-08",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 64,
+        "verse_start": 8,
+        "verse_end": 10
+      },
+      {
+        "psalm": 65,
+        "verse_start": 1,
+        "verse_end": 13
+      },
+      {
+        "psalm": 66,
+        "verse_start": 1,
+        "verse_end": 11
+      }
+    ]
+  },
+  {
+    "day": 138,
+    "date": "2025-10-09",
+    "book": "Proverbes",
+    "chapter": 13,
+    "verse_start": 1,
+    "verse_end": 9,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 139,
+    "date": "2025-10-10",
+    "book": "Ecclésiaste",
+    "chapter": 5,
+    "verse_start": 1,
+    "verse_end": 3,
+    "part_index": 1,
+    "part_count": 8
+  },
+  {
+    "day": 140,
+    "date": "2025-10-11",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 17,
+    "verse_end": 18,
+    "part_index": 9,
+    "part_count": 39
+  },
+  {
+    "day": 141,
+    "date": "2025-10-12",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 66,
+        "verse_start": 12,
+        "verse_end": 20
+      },
+      {
+        "psalm": 67,
+        "verse_start": 1,
+        "verse_end": 7
+      },
+      {
+        "psalm": 68,
+        "verse_start": 1,
+        "verse_end": 11
+      }
+    ]
+  },
+  {
+    "day": 142,
+    "date": "2025-10-13",
+    "book": "Proverbes",
+    "chapter": 13,
+    "verse_start": 10,
+    "verse_end": 17,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 143,
+    "date": "2025-10-14",
+    "book": "Ecclésiaste",
+    "chapter": 5,
+    "verse_start": 4,
+    "verse_end": 6,
+    "part_index": 2,
+    "part_count": 8
+  },
+  {
+    "day": 144,
+    "date": "2025-10-15",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 19,
+    "verse_end": 20,
+    "part_index": 10,
+    "part_count": 39
+  },
+  {
+    "day": 145,
+    "date": "2025-10-16",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 68,
+        "verse_start": 12,
+        "verse_end": 35
+      },
+      {
+        "psalm": 69,
+        "verse_start": 1,
+        "verse_end": 3
+      }
+    ]
+  },
+  {
+    "day": 146,
+    "date": "2025-10-17",
+    "book": "Proverbes",
+    "chapter": 13,
+    "verse_start": 18,
+    "verse_end": 25,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 147,
+    "date": "2025-10-18",
+    "book": "Ecclésiaste",
+    "chapter": 5,
+    "verse_start": 7,
+    "verse_end": 9,
+    "part_index": 3,
+    "part_count": 8
+  },
+  {
+    "day": 148,
+    "date": "2025-10-19",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 21,
+    "verse_end": 22,
+    "part_index": 11,
+    "part_count": 39
+  },
+  {
+    "day": 149,
+    "date": "2025-10-20",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 69,
+        "verse_start": 4,
+        "verse_end": 30
+      }
+    ]
+  },
+  {
+    "day": 150,
+    "date": "2025-10-21",
+    "book": "Proverbes",
+    "chapter": 14,
+    "verse_start": 1,
+    "verse_end": 12,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 151,
+    "date": "2025-10-22",
+    "book": "Ecclésiaste",
+    "chapter": 5,
+    "verse_start": 10,
+    "verse_end": 12,
+    "part_index": 4,
+    "part_count": 8
+  },
+  {
+    "day": 152,
+    "date": "2025-10-23",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 23,
+    "verse_end": 24,
+    "part_index": 12,
+    "part_count": 39
+  },
+  {
+    "day": 153,
+    "date": "2025-10-24",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 69,
+        "verse_start": 31,
+        "verse_end": 35
+      },
+      {
+        "psalm": 70,
+        "verse_start": 1,
+        "verse_end": 5
+      },
+      {
+        "psalm": 71,
+        "verse_start": 1,
+        "verse_end": 17
+      }
+    ]
+  },
+  {
+    "day": 154,
+    "date": "2025-10-25",
+    "book": "Proverbes",
+    "chapter": 14,
+    "verse_start": 13,
+    "verse_end": 24,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 155,
+    "date": "2025-10-26",
+    "book": "Ecclésiaste",
+    "chapter": 5,
+    "verse_start": 13,
+    "verse_end": 14,
+    "part_index": 5,
+    "part_count": 8
+  },
+  {
+    "day": 156,
+    "date": "2025-10-27",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 25,
+    "verse_end": 26,
+    "part_index": 13,
+    "part_count": 39
+  },
+  {
+    "day": 157,
+    "date": "2025-10-28",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 71,
+        "verse_start": 18,
+        "verse_end": 24
+      },
+      {
+        "psalm": 72,
+        "verse_start": 1,
+        "verse_end": 20
+      }
+    ]
+  },
+  {
+    "day": 158,
+    "date": "2025-10-29",
+    "book": "Proverbes",
+    "chapter": 14,
+    "verse_start": 25,
+    "verse_end": 35,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 159,
+    "date": "2025-10-30",
+    "book": "Ecclésiaste",
+    "chapter": 5,
+    "verse_start": 15,
+    "verse_end": 16,
+    "part_index": 6,
+    "part_count": 8
+  },
+  {
+    "day": 160,
+    "date": "2025-10-31",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 27,
+    "verse_end": 28,
+    "part_index": 14,
+    "part_count": 39
+  },
+  {
+    "day": 161,
+    "date": "2025-11-01",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 73,
+        "verse_start": 1,
+        "verse_end": 27
+      }
+    ]
+  },
+  {
+    "day": 162,
+    "date": "2025-11-02",
+    "book": "Proverbes",
+    "chapter": 15,
+    "verse_start": 1,
+    "verse_end": 11,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 163,
+    "date": "2025-11-03",
+    "book": "Ecclésiaste",
+    "chapter": 5,
+    "verse_start": 17,
+    "verse_end": 18,
+    "part_index": 7,
+    "part_count": 8
+  },
+  {
+    "day": 164,
+    "date": "2025-11-04",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 29,
+    "verse_end": 30,
+    "part_index": 15,
+    "part_count": 39
+  },
+  {
+    "day": 165,
+    "date": "2025-11-05",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 73,
+        "verse_start": 28,
+        "verse_end": 28
+      },
+      {
+        "psalm": 74,
+        "verse_start": 1,
+        "verse_end": 23
+      },
+      {
+        "psalm": 75,
+        "verse_start": 1,
+        "verse_end": 3
+      }
+    ]
+  },
+  {
+    "day": 166,
+    "date": "2025-11-06",
+    "book": "Proverbes",
+    "chapter": 15,
+    "verse_start": 12,
+    "verse_end": 22,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 167,
+    "date": "2025-11-07",
+    "book": "Ecclésiaste",
+    "chapter": 5,
+    "verse_start": 19,
+    "verse_end": 20,
+    "part_index": 8,
+    "part_count": 8
+  },
+  {
+    "day": 168,
+    "date": "2025-11-08",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 31,
+    "verse_end": 32,
+    "part_index": 16,
+    "part_count": 39
+  },
+  {
+    "day": 169,
+    "date": "2025-11-09",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 75,
+        "verse_start": 4,
+        "verse_end": 10
+      },
+      {
+        "psalm": 76,
+        "verse_start": 1,
+        "verse_end": 12
+      },
+      {
+        "psalm": 77,
+        "verse_start": 1,
+        "verse_end": 8
+      }
+    ]
+  },
+  {
+    "day": 170,
+    "date": "2025-11-10",
+    "book": "Proverbes",
+    "chapter": 15,
+    "verse_start": 23,
+    "verse_end": 33,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 171,
+    "date": "2025-11-11",
+    "book": "Ecclésiaste",
+    "chapter": 6,
+    "verse_start": 1,
+    "verse_end": 3,
+    "part_index": 1,
+    "part_count": 5
+  },
+  {
+    "day": 172,
+    "date": "2025-11-12",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 33,
+    "verse_end": 34,
+    "part_index": 17,
+    "part_count": 39
+  },
+  {
+    "day": 173,
+    "date": "2025-11-13",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 77,
+        "verse_start": 9,
+        "verse_end": 20
+      },
+      {
+        "psalm": 78,
+        "verse_start": 1,
+        "verse_end": 15
+      }
+    ]
+  },
+  {
+    "day": 174,
+    "date": "2025-11-14",
+    "book": "Proverbes",
+    "chapter": 16,
+    "verse_start": 1,
+    "verse_end": 11,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 175,
+    "date": "2025-11-15",
+    "book": "Ecclésiaste",
+    "chapter": 6,
+    "verse_start": 4,
+    "verse_end": 6,
+    "part_index": 2,
+    "part_count": 5
+  },
+  {
+    "day": 176,
+    "date": "2025-11-16",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 35,
+    "verse_end": 36,
+    "part_index": 18,
+    "part_count": 39
+  },
+  {
+    "day": 177,
+    "date": "2025-11-17",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 78,
+        "verse_start": 16,
+        "verse_end": 42
+      }
+    ]
+  },
+  {
+    "day": 178,
+    "date": "2025-11-18",
+    "book": "Proverbes",
+    "chapter": 16,
+    "verse_start": 12,
+    "verse_end": 22,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 179,
+    "date": "2025-11-19",
+    "book": "Ecclésiaste",
+    "chapter": 6,
+    "verse_start": 7,
+    "verse_end": 8,
+    "part_index": 3,
+    "part_count": 5
+  },
+  {
+    "day": 180,
+    "date": "2025-11-20",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 37,
+    "verse_end": 38,
+    "part_index": 19,
+    "part_count": 39
+  },
+  {
+    "day": 181,
+    "date": "2025-11-21",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 78,
+        "verse_start": 43,
+        "verse_end": 69
+      }
+    ]
+  },
+  {
+    "day": 182,
+    "date": "2025-11-22",
+    "book": "Proverbes",
+    "chapter": 16,
+    "verse_start": 23,
+    "verse_end": 33,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 183,
+    "date": "2025-11-23",
+    "book": "Ecclésiaste",
+    "chapter": 6,
+    "verse_start": 9,
+    "verse_end": 10,
+    "part_index": 4,
+    "part_count": 5
+  },
+  {
+    "day": 184,
+    "date": "2025-11-24",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 39,
+    "verse_end": 40,
+    "part_index": 20,
+    "part_count": 39
+  },
+  {
+    "day": 185,
+    "date": "2025-11-25",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 78,
+        "verse_start": 70,
+        "verse_end": 72
+      },
+      {
+        "psalm": 79,
+        "verse_start": 1,
+        "verse_end": 13
+      },
+      {
+        "psalm": 80,
+        "verse_start": 1,
+        "verse_end": 11
+      }
+    ]
+  },
+  {
+    "day": 186,
+    "date": "2025-11-26",
+    "book": "Proverbes",
+    "chapter": 17,
+    "verse_start": 1,
+    "verse_end": 10,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 187,
+    "date": "2025-11-27",
+    "book": "Ecclésiaste",
+    "chapter": 6,
+    "verse_start": 11,
+    "verse_end": 12,
+    "part_index": 5,
+    "part_count": 5
+  },
+  {
+    "day": 188,
+    "date": "2025-11-28",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 41,
+    "verse_end": 42,
+    "part_index": 21,
+    "part_count": 39
+  },
+  {
+    "day": 189,
+    "date": "2025-11-29",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 80,
+        "verse_start": 12,
+        "verse_end": 19
+      },
+      {
+        "psalm": 81,
+        "verse_start": 1,
+        "verse_end": 16
+      },
+      {
+        "psalm": 82,
+        "verse_start": 1,
+        "verse_end": 3
+      }
+    ]
+  },
+  {
+    "day": 190,
+    "date": "2025-11-30",
+    "book": "Proverbes",
+    "chapter": 17,
+    "verse_start": 11,
+    "verse_end": 19,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 191,
+    "date": "2025-12-01",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verse_start": 1,
+    "verse_end": 3,
+    "part_index": 1,
+    "part_count": 12
+  },
+  {
+    "day": 192,
+    "date": "2025-12-02",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 43,
+    "verse_end": 44,
+    "part_index": 22,
+    "part_count": 39
+  },
+  {
+    "day": 193,
+    "date": "2025-12-03",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 82,
+        "verse_start": 4,
+        "verse_end": 8
+      },
+      {
+        "psalm": 83,
+        "verse_start": 1,
+        "verse_end": 18
+      },
+      {
+        "psalm": 84,
+        "verse_start": 1,
+        "verse_end": 4
+      }
+    ]
+  },
+  {
+    "day": 194,
+    "date": "2025-12-04",
+    "book": "Proverbes",
+    "chapter": 17,
+    "verse_start": 20,
+    "verse_end": 28,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 195,
+    "date": "2025-12-05",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verse_start": 4,
+    "verse_end": 6,
+    "part_index": 2,
+    "part_count": 12
+  },
+  {
+    "day": 196,
+    "date": "2025-12-06",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 45,
+    "verse_end": 46,
+    "part_index": 23,
+    "part_count": 39
+  },
+  {
+    "day": 197,
+    "date": "2025-12-07",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 84,
+        "verse_start": 5,
+        "verse_end": 12
+      },
+      {
+        "psalm": 85,
+        "verse_start": 1,
+        "verse_end": 13
+      },
+      {
+        "psalm": 86,
+        "verse_start": 1,
+        "verse_end": 6
+      }
+    ]
+  },
+  {
+    "day": 198,
+    "date": "2025-12-08",
+    "book": "Proverbes",
+    "chapter": 18,
+    "verse_start": 1,
+    "verse_end": 8,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 199,
+    "date": "2025-12-09",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verse_start": 7,
+    "verse_end": 9,
+    "part_index": 3,
+    "part_count": 12
+  },
+  {
+    "day": 200,
+    "date": "2025-12-10",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 47,
+    "verse_end": 48,
+    "part_index": 24,
+    "part_count": 39
+  },
+  {
+    "day": 201,
+    "date": "2025-12-11",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 86,
+        "verse_start": 7,
+        "verse_end": 17
+      },
+      {
+        "psalm": 87,
+        "verse_start": 1,
+        "verse_end": 7
+      },
+      {
+        "psalm": 88,
+        "verse_start": 1,
+        "verse_end": 9
+      }
+    ]
+  },
+  {
+    "day": 202,
+    "date": "2025-12-12",
+    "book": "Proverbes",
+    "chapter": 18,
+    "verse_start": 9,
+    "verse_end": 16,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 203,
+    "date": "2025-12-13",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verse_start": 10,
+    "verse_end": 12,
+    "part_index": 4,
+    "part_count": 12
+  },
+  {
+    "day": 204,
+    "date": "2025-12-14",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 49,
+    "verse_end": 50,
+    "part_index": 25,
+    "part_count": 39
+  },
+  {
+    "day": 205,
+    "date": "2025-12-15",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 88,
+        "verse_start": 10,
+        "verse_end": 18
+      },
+      {
+        "psalm": 89,
+        "verse_start": 1,
+        "verse_end": 18
+      }
+    ]
+  },
+  {
+    "day": 206,
+    "date": "2025-12-16",
+    "book": "Proverbes",
+    "chapter": 18,
+    "verse_start": 17,
+    "verse_end": 24,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 207,
+    "date": "2025-12-17",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verse_start": 13,
+    "verse_end": 15,
+    "part_index": 5,
+    "part_count": 12
+  },
+  {
+    "day": 208,
+    "date": "2025-12-18",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 51,
+    "verse_end": 52,
+    "part_index": 26,
+    "part_count": 39
+  },
+  {
+    "day": 209,
+    "date": "2025-12-19",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 89,
+        "verse_start": 19,
+        "verse_end": 45
+      }
+    ]
+  },
+  {
+    "day": 210,
+    "date": "2025-12-20",
+    "book": "Proverbes",
+    "chapter": 19,
+    "verse_start": 1,
+    "verse_end": 10,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 211,
+    "date": "2025-12-21",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verse_start": 16,
+    "verse_end": 17,
+    "part_index": 6,
+    "part_count": 12
+  },
+  {
+    "day": 212,
+    "date": "2025-12-22",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 53,
+    "verse_end": 54,
+    "part_index": 27,
+    "part_count": 39
+  },
+  {
+    "day": 213,
+    "date": "2025-12-23",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 89,
+        "verse_start": 46,
+        "verse_end": 52
+      },
+      {
+        "psalm": 90,
+        "verse_start": 1,
+        "verse_end": 17
+      },
+      {
+        "psalm": 91,
+        "verse_start": 1,
+        "verse_end": 3
+      }
+    ]
+  },
+  {
+    "day": 214,
+    "date": "2025-12-24",
+    "book": "Proverbes",
+    "chapter": 19,
+    "verse_start": 11,
+    "verse_end": 20,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 215,
+    "date": "2025-12-25",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verse_start": 18,
+    "verse_end": 19,
+    "part_index": 7,
+    "part_count": 12
+  },
+  {
+    "day": 216,
+    "date": "2025-12-26",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 55,
+    "verse_end": 55,
+    "part_index": 28,
+    "part_count": 39
+  },
+  {
+    "day": 217,
+    "date": "2025-12-27",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 91,
+        "verse_start": 4,
+        "verse_end": 16
+      },
+      {
+        "psalm": 92,
+        "verse_start": 1,
+        "verse_end": 14
+      }
+    ]
+  },
+  {
+    "day": 218,
+    "date": "2025-12-28",
+    "book": "Proverbes",
+    "chapter": 19,
+    "verse_start": 21,
+    "verse_end": 29,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 219,
+    "date": "2025-12-29",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verse_start": 20,
+    "verse_end": 21,
+    "part_index": 8,
+    "part_count": 12
+  },
+  {
+    "day": 220,
+    "date": "2025-12-30",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 56,
+    "verse_end": 56,
+    "part_index": 29,
+    "part_count": 39
+  },
+  {
+    "day": 221,
+    "date": "2025-12-31",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 92,
+        "verse_start": 15,
+        "verse_end": 15
+      },
+      {
+        "psalm": 93,
+        "verse_start": 1,
+        "verse_end": 5
+      },
+      {
+        "psalm": 94,
+        "verse_start": 1,
+        "verse_end": 21
+      }
+    ]
+  },
+  {
+    "day": 222,
+    "date": "2026-01-01",
+    "book": "Proverbes",
+    "chapter": 20,
+    "verse_start": 1,
+    "verse_end": 10,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 223,
+    "date": "2026-01-02",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verse_start": 22,
+    "verse_end": 23,
+    "part_index": 9,
+    "part_count": 12
+  },
+  {
+    "day": 224,
+    "date": "2026-01-03",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 57,
+    "verse_end": 57,
+    "part_index": 30,
+    "part_count": 39
+  },
+  {
+    "day": 225,
+    "date": "2026-01-04",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 94,
+        "verse_start": 22,
+        "verse_end": 23
+      },
+      {
+        "psalm": 95,
+        "verse_start": 1,
+        "verse_end": 11
+      },
+      {
+        "psalm": 96,
+        "verse_start": 1,
+        "verse_end": 13
+      },
+      {
+        "psalm": 97,
+        "verse_start": 1,
+        "verse_end": 1
+      }
+    ]
+  },
+  {
+    "day": 226,
+    "date": "2026-01-05",
+    "book": "Proverbes",
+    "chapter": 20,
+    "verse_start": 11,
+    "verse_end": 20,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 227,
+    "date": "2026-01-06",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verse_start": 24,
+    "verse_end": 25,
+    "part_index": 10,
+    "part_count": 12
+  },
+  {
+    "day": 228,
+    "date": "2026-01-07",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 58,
+    "verse_end": 58,
+    "part_index": 31,
+    "part_count": 39
+  },
+  {
+    "day": 229,
+    "date": "2026-01-08",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 97,
+        "verse_start": 2,
+        "verse_end": 12
+      },
+      {
+        "psalm": 98,
+        "verse_start": 1,
+        "verse_end": 9
+      },
+      {
+        "psalm": 99,
+        "verse_start": 1,
+        "verse_end": 7
+      }
+    ]
+  },
+  {
+    "day": 230,
+    "date": "2026-01-09",
+    "book": "Proverbes",
+    "chapter": 20,
+    "verse_start": 21,
+    "verse_end": 30,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 231,
+    "date": "2026-01-10",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verse_start": 26,
+    "verse_end": 27,
+    "part_index": 11,
+    "part_count": 12
+  },
+  {
+    "day": 232,
+    "date": "2026-01-11",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 59,
+    "verse_end": 59,
+    "part_index": 32,
+    "part_count": 39
+  },
+  {
+    "day": 233,
+    "date": "2026-01-12",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 99,
+        "verse_start": 8,
+        "verse_end": 9
+      },
+      {
+        "psalm": 100,
+        "verse_start": 1,
+        "verse_end": 5
+      },
+      {
+        "psalm": 101,
+        "verse_start": 1,
+        "verse_end": 8
+      },
+      {
+        "psalm": 102,
+        "verse_start": 1,
+        "verse_end": 12
+      }
+    ]
+  },
+  {
+    "day": 234,
+    "date": "2026-01-13",
+    "book": "Proverbes",
+    "chapter": 21,
+    "verse_start": 1,
+    "verse_end": 11,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 235,
+    "date": "2026-01-14",
+    "book": "Ecclésiaste",
+    "chapter": 7,
+    "verse_start": 28,
+    "verse_end": 29,
+    "part_index": 12,
+    "part_count": 12
+  },
+  {
+    "day": 236,
+    "date": "2026-01-15",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 60,
+    "verse_end": 60,
+    "part_index": 33,
+    "part_count": 39
+  },
+  {
+    "day": 237,
+    "date": "2026-01-16",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 102,
+        "verse_start": 13,
+        "verse_end": 28
+      },
+      {
+        "psalm": 103,
+        "verse_start": 1,
+        "verse_end": 11
+      }
+    ]
+  },
+  {
+    "day": 238,
+    "date": "2026-01-17",
+    "book": "Proverbes",
+    "chapter": 21,
+    "verse_start": 12,
+    "verse_end": 21,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 239,
+    "date": "2026-01-18",
+    "book": "Ecclésiaste",
+    "chapter": 8,
+    "verse_start": 1,
+    "verse_end": 3,
+    "part_index": 1,
+    "part_count": 7
+  },
+  {
+    "day": 240,
+    "date": "2026-01-19",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 61,
+    "verse_end": 61,
+    "part_index": 34,
+    "part_count": 39
+  },
+  {
+    "day": 241,
+    "date": "2026-01-20",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 103,
+        "verse_start": 12,
+        "verse_end": 22
+      },
+      {
+        "psalm": 104,
+        "verse_start": 1,
+        "verse_end": 16
+      }
+    ]
+  },
+  {
+    "day": 242,
+    "date": "2026-01-21",
+    "book": "Proverbes",
+    "chapter": 21,
+    "verse_start": 22,
+    "verse_end": 31,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 243,
+    "date": "2026-01-22",
+    "book": "Ecclésiaste",
+    "chapter": 8,
+    "verse_start": 4,
+    "verse_end": 6,
+    "part_index": 2,
+    "part_count": 7
+  },
+  {
+    "day": 244,
+    "date": "2026-01-23",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 62,
+    "verse_end": 62,
+    "part_index": 35,
+    "part_count": 39
+  },
+  {
+    "day": 245,
+    "date": "2026-01-24",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 104,
+        "verse_start": 17,
+        "verse_end": 35
+      },
+      {
+        "psalm": 105,
+        "verse_start": 1,
+        "verse_end": 8
+      }
+    ]
+  },
+  {
+    "day": 246,
+    "date": "2026-01-25",
+    "book": "Proverbes",
+    "chapter": 22,
+    "verse_start": 1,
+    "verse_end": 10,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 247,
+    "date": "2026-01-26",
+    "book": "Ecclésiaste",
+    "chapter": 8,
+    "verse_start": 7,
+    "verse_end": 9,
+    "part_index": 3,
+    "part_count": 7
+  },
+  {
+    "day": 248,
+    "date": "2026-01-27",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 63,
+    "verse_end": 63,
+    "part_index": 36,
+    "part_count": 39
+  },
+  {
+    "day": 249,
+    "date": "2026-01-28",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 105,
+        "verse_start": 9,
+        "verse_end": 35
+      }
+    ]
+  },
+  {
+    "day": 250,
+    "date": "2026-01-29",
+    "book": "Proverbes",
+    "chapter": 22,
+    "verse_start": 11,
+    "verse_end": 20,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 251,
+    "date": "2026-01-30",
+    "book": "Ecclésiaste",
+    "chapter": 8,
+    "verse_start": 10,
+    "verse_end": 11,
+    "part_index": 4,
+    "part_count": 7
+  },
+  {
+    "day": 252,
+    "date": "2026-01-31",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 64,
+    "verse_end": 64,
+    "part_index": 37,
+    "part_count": 39
+  },
+  {
+    "day": 253,
+    "date": "2026-02-01",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 105,
+        "verse_start": 36,
+        "verse_end": 45
+      },
+      {
+        "psalm": 106,
+        "verse_start": 1,
+        "verse_end": 17
+      }
+    ]
+  },
+  {
+    "day": 254,
+    "date": "2026-02-02",
+    "book": "Proverbes",
+    "chapter": 22,
+    "verse_start": 21,
+    "verse_end": 29,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 255,
+    "date": "2026-02-03",
+    "book": "Ecclésiaste",
+    "chapter": 8,
+    "verse_start": 12,
+    "verse_end": 13,
+    "part_index": 5,
+    "part_count": 7
+  },
+  {
+    "day": 256,
+    "date": "2026-02-04",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 65,
+    "verse_end": 65,
+    "part_index": 38,
+    "part_count": 39
+  },
+  {
+    "day": 257,
+    "date": "2026-02-05",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 106,
+        "verse_start": 18,
+        "verse_end": 44
+      }
+    ]
+  },
+  {
+    "day": 258,
+    "date": "2026-02-06",
+    "book": "Proverbes",
+    "chapter": 23,
+    "verse_start": 1,
+    "verse_end": 12,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 259,
+    "date": "2026-02-07",
+    "book": "Ecclésiaste",
+    "chapter": 8,
+    "verse_start": 14,
+    "verse_end": 15,
+    "part_index": 6,
+    "part_count": 7
+  },
+  {
+    "day": 260,
+    "date": "2026-02-08",
+    "book": "Lamentations",
+    "chapter": 3,
+    "verse_start": 66,
+    "verse_end": 66,
+    "part_index": 39,
+    "part_count": 39
+  },
+  {
+    "day": 261,
+    "date": "2026-02-09",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 106,
+        "verse_start": 45,
+        "verse_end": 48
+      },
+      {
+        "psalm": 107,
+        "verse_start": 1,
+        "verse_end": 23
+      }
+    ]
+  },
+  {
+    "day": 262,
+    "date": "2026-02-10",
+    "book": "Proverbes",
+    "chapter": 23,
+    "verse_start": 13,
+    "verse_end": 24,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 263,
+    "date": "2026-02-11",
+    "book": "Ecclésiaste",
+    "chapter": 8,
+    "verse_start": 16,
+    "verse_end": 17,
+    "part_index": 7,
+    "part_count": 7
+  },
+  {
+    "day": 264,
+    "date": "2026-02-12",
+    "book": "Lamentations",
+    "chapter": 4,
+    "verse_start": 1,
+    "verse_end": 2,
+    "part_index": 1,
+    "part_count": 13
+  },
+  {
+    "day": 265,
+    "date": "2026-02-13",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 107,
+        "verse_start": 24,
+        "verse_end": 43
+      },
+      {
+        "psalm": 108,
+        "verse_start": 1,
+        "verse_end": 7
+      }
+    ]
+  },
+  {
+    "day": 266,
+    "date": "2026-02-14",
+    "book": "Proverbes",
+    "chapter": 23,
+    "verse_start": 25,
+    "verse_end": 35,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 267,
+    "date": "2026-02-15",
+    "book": "Ecclésiaste",
+    "chapter": 9,
+    "verse_start": 1,
+    "verse_end": 3,
+    "part_index": 1,
+    "part_count": 7
+  },
+  {
+    "day": 268,
+    "date": "2026-02-16",
+    "book": "Lamentations",
+    "chapter": 4,
+    "verse_start": 3,
+    "verse_end": 4,
+    "part_index": 2,
+    "part_count": 13
+  },
+  {
+    "day": 269,
+    "date": "2026-02-17",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 108,
+        "verse_start": 8,
+        "verse_end": 13
+      },
+      {
+        "psalm": 109,
+        "verse_start": 1,
+        "verse_end": 21
+      }
+    ]
+  },
+  {
+    "day": 270,
+    "date": "2026-02-18",
+    "book": "Proverbes",
+    "chapter": 24,
+    "verse_start": 1,
+    "verse_end": 12,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 271,
+    "date": "2026-02-19",
+    "book": "Ecclésiaste",
+    "chapter": 9,
+    "verse_start": 4,
+    "verse_end": 6,
+    "part_index": 2,
+    "part_count": 7
+  },
+  {
+    "day": 272,
+    "date": "2026-02-20",
+    "book": "Lamentations",
+    "chapter": 4,
+    "verse_start": 5,
+    "verse_end": 6,
+    "part_index": 3,
+    "part_count": 13
+  },
+  {
+    "day": 273,
+    "date": "2026-02-21",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 109,
+        "verse_start": 22,
+        "verse_end": 31
+      },
+      {
+        "psalm": 110,
+        "verse_start": 1,
+        "verse_end": 7
+      },
+      {
+        "psalm": 111,
+        "verse_start": 1,
+        "verse_end": 10
+      }
+    ]
+  },
+  {
+    "day": 274,
+    "date": "2026-02-22",
+    "book": "Proverbes",
+    "chapter": 24,
+    "verse_start": 13,
+    "verse_end": 23,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 275,
+    "date": "2026-02-23",
+    "book": "Ecclésiaste",
+    "chapter": 9,
+    "verse_start": 7,
+    "verse_end": 9,
+    "part_index": 3,
+    "part_count": 7
+  },
+  {
+    "day": 276,
+    "date": "2026-02-24",
+    "book": "Lamentations",
+    "chapter": 4,
+    "verse_start": 7,
+    "verse_end": 8,
+    "part_index": 4,
+    "part_count": 13
+  },
+  {
+    "day": 277,
+    "date": "2026-02-25",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 112,
+        "verse_start": 1,
+        "verse_end": 10
+      },
+      {
+        "psalm": 113,
+        "verse_start": 1,
+        "verse_end": 9
+      },
+      {
+        "psalm": 114,
+        "verse_start": 1,
+        "verse_end": 8
+      }
+    ]
+  },
+  {
+    "day": 278,
+    "date": "2026-02-26",
+    "book": "Proverbes",
+    "chapter": 24,
+    "verse_start": 24,
+    "verse_end": 34,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 279,
+    "date": "2026-02-27",
+    "book": "Ecclésiaste",
+    "chapter": 9,
+    "verse_start": 10,
+    "verse_end": 12,
+    "part_index": 4,
+    "part_count": 7
+  },
+  {
+    "day": 280,
+    "date": "2026-02-28",
+    "book": "Lamentations",
+    "chapter": 4,
+    "verse_start": 9,
+    "verse_end": 10,
+    "part_index": 5,
+    "part_count": 13
+  },
+  {
+    "day": 281,
+    "date": "2026-03-01",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 115,
+        "verse_start": 1,
+        "verse_end": 18
+      },
+      {
+        "psalm": 116,
+        "verse_start": 1,
+        "verse_end": 9
+      }
+    ]
+  },
+  {
+    "day": 282,
+    "date": "2026-03-02",
+    "book": "Proverbes",
+    "chapter": 25,
+    "verse_start": 1,
+    "verse_end": 10,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 283,
+    "date": "2026-03-03",
+    "book": "Ecclésiaste",
+    "chapter": 9,
+    "verse_start": 13,
+    "verse_end": 14,
+    "part_index": 5,
+    "part_count": 7
+  },
+  {
+    "day": 284,
+    "date": "2026-03-04",
+    "book": "Lamentations",
+    "chapter": 4,
+    "verse_start": 11,
+    "verse_end": 12,
+    "part_index": 6,
+    "part_count": 13
+  },
+  {
+    "day": 285,
+    "date": "2026-03-05",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 116,
+        "verse_start": 10,
+        "verse_end": 19
+      },
+      {
+        "psalm": 117,
+        "verse_start": 1,
+        "verse_end": 2
+      },
+      {
+        "psalm": 118,
+        "verse_start": 1,
+        "verse_end": 15
+      }
+    ]
+  },
+  {
+    "day": 286,
+    "date": "2026-03-06",
+    "book": "Proverbes",
+    "chapter": 25,
+    "verse_start": 11,
+    "verse_end": 19,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 287,
+    "date": "2026-03-07",
+    "book": "Ecclésiaste",
+    "chapter": 9,
+    "verse_start": 15,
+    "verse_end": 16,
+    "part_index": 6,
+    "part_count": 7
+  },
+  {
+    "day": 288,
+    "date": "2026-03-08",
+    "book": "Lamentations",
+    "chapter": 4,
+    "verse_start": 13,
+    "verse_end": 14,
+    "part_index": 7,
+    "part_count": 13
+  },
+  {
+    "day": 289,
+    "date": "2026-03-09",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 118,
+        "verse_start": 16,
+        "verse_end": 29
+      },
+      {
+        "psalm": 119,
+        "verse_start": 1,
+        "verse_end": 13
+      }
+    ]
+  },
+  {
+    "day": 290,
+    "date": "2026-03-10",
+    "book": "Proverbes",
+    "chapter": 25,
+    "verse_start": 20,
+    "verse_end": 28,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 291,
+    "date": "2026-03-11",
+    "book": "Ecclésiaste",
+    "chapter": 9,
+    "verse_start": 17,
+    "verse_end": 18,
+    "part_index": 7,
+    "part_count": 7
+  },
+  {
+    "day": 292,
+    "date": "2026-03-12",
+    "book": "Lamentations",
+    "chapter": 4,
+    "verse_start": 15,
+    "verse_end": 16,
+    "part_index": 8,
+    "part_count": 13
+  },
+  {
+    "day": 293,
+    "date": "2026-03-13",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 119,
+        "verse_start": 14,
+        "verse_end": 40
+      }
+    ]
+  },
+  {
+    "day": 294,
+    "date": "2026-03-14",
+    "book": "Proverbes",
+    "chapter": 26,
+    "verse_start": 1,
+    "verse_end": 10,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 295,
+    "date": "2026-03-15",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verse_start": 1,
+    "verse_end": 3,
+    "part_index": 1,
+    "part_count": 8
+  },
+  {
+    "day": 296,
+    "date": "2026-03-16",
+    "book": "Lamentations",
+    "chapter": 4,
+    "verse_start": 17,
+    "verse_end": 18,
+    "part_index": 9,
+    "part_count": 13
+  },
+  {
+    "day": 297,
+    "date": "2026-03-17",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 119,
+        "verse_start": 41,
+        "verse_end": 67
+      }
+    ]
+  },
+  {
+    "day": 298,
+    "date": "2026-03-18",
+    "book": "Proverbes",
+    "chapter": 26,
+    "verse_start": 11,
+    "verse_end": 19,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 299,
+    "date": "2026-03-19",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verse_start": 4,
+    "verse_end": 6,
+    "part_index": 2,
+    "part_count": 8
+  },
+  {
+    "day": 300,
+    "date": "2026-03-20",
+    "book": "Lamentations",
+    "chapter": 4,
+    "verse_start": 19,
+    "verse_end": 19,
+    "part_index": 10,
+    "part_count": 13
+  },
+  {
+    "day": 301,
+    "date": "2026-03-21",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 119,
+        "verse_start": 68,
+        "verse_end": 94
+      }
+    ]
+  },
+  {
+    "day": 302,
+    "date": "2026-03-22",
+    "book": "Proverbes",
+    "chapter": 26,
+    "verse_start": 20,
+    "verse_end": 28,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 303,
+    "date": "2026-03-23",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verse_start": 7,
+    "verse_end": 9,
+    "part_index": 3,
+    "part_count": 8
+  },
+  {
+    "day": 304,
+    "date": "2026-03-24",
+    "book": "Lamentations",
+    "chapter": 4,
+    "verse_start": 20,
+    "verse_end": 20,
+    "part_index": 11,
+    "part_count": 13
+  },
+  {
+    "day": 305,
+    "date": "2026-03-25",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 119,
+        "verse_start": 95,
+        "verse_end": 121
+      }
+    ]
+  },
+  {
+    "day": 306,
+    "date": "2026-03-26",
+    "book": "Proverbes",
+    "chapter": 27,
+    "verse_start": 1,
+    "verse_end": 9,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 307,
+    "date": "2026-03-27",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verse_start": 10,
+    "verse_end": 12,
+    "part_index": 4,
+    "part_count": 8
+  },
+  {
+    "day": 308,
+    "date": "2026-03-28",
+    "book": "Lamentations",
+    "chapter": 4,
+    "verse_start": 21,
+    "verse_end": 21,
+    "part_index": 12,
+    "part_count": 13
+  },
+  {
+    "day": 309,
+    "date": "2026-03-29",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 119,
+        "verse_start": 122,
+        "verse_end": 148
+      }
+    ]
+  },
+  {
+    "day": 310,
+    "date": "2026-03-30",
+    "book": "Proverbes",
+    "chapter": 27,
+    "verse_start": 10,
+    "verse_end": 18,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 311,
+    "date": "2026-03-31",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verse_start": 13,
+    "verse_end": 14,
+    "part_index": 5,
+    "part_count": 8
+  },
+  {
+    "day": 312,
+    "date": "2026-04-01",
+    "book": "Lamentations",
+    "chapter": 4,
+    "verse_start": 22,
+    "verse_end": 22,
+    "part_index": 13,
+    "part_count": 13
+  },
+  {
+    "day": 313,
+    "date": "2026-04-02",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 119,
+        "verse_start": 149,
+        "verse_end": 175
+      }
+    ]
+  },
+  {
+    "day": 314,
+    "date": "2026-04-03",
+    "book": "Proverbes",
+    "chapter": 27,
+    "verse_start": 19,
+    "verse_end": 27,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 315,
+    "date": "2026-04-04",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verse_start": 15,
+    "verse_end": 16,
+    "part_index": 6,
+    "part_count": 8
+  },
+  {
+    "day": 316,
+    "date": "2026-04-05",
+    "book": "Lamentations",
+    "chapter": 5,
+    "verse_start": 1,
+    "verse_end": 2,
+    "part_index": 1,
+    "part_count": 13
+  },
+  {
+    "day": 317,
+    "date": "2026-04-06",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 119,
+        "verse_start": 176,
+        "verse_end": 176
+      },
+      {
+        "psalm": 120,
+        "verse_start": 1,
+        "verse_end": 7
+      },
+      {
+        "psalm": 121,
+        "verse_start": 1,
+        "verse_end": 8
+      },
+      {
+        "psalm": 122,
+        "verse_start": 1,
+        "verse_end": 9
+      },
+      {
+        "psalm": 123,
+        "verse_start": 1,
+        "verse_end": 2
+      }
+    ]
+  },
+  {
+    "day": 318,
+    "date": "2026-04-07",
+    "book": "Proverbes",
+    "chapter": 28,
+    "verse_start": 1,
+    "verse_end": 10,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 319,
+    "date": "2026-04-08",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verse_start": 17,
+    "verse_end": 18,
+    "part_index": 7,
+    "part_count": 8
+  },
+  {
+    "day": 320,
+    "date": "2026-04-09",
+    "book": "Lamentations",
+    "chapter": 5,
+    "verse_start": 3,
+    "verse_end": 4,
+    "part_index": 2,
+    "part_count": 13
+  },
+  {
+    "day": 321,
+    "date": "2026-04-10",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 123,
+        "verse_start": 3,
+        "verse_end": 4
+      },
+      {
+        "psalm": 124,
+        "verse_start": 1,
+        "verse_end": 8
+      },
+      {
+        "psalm": 125,
+        "verse_start": 1,
+        "verse_end": 5
+      },
+      {
+        "psalm": 126,
+        "verse_start": 1,
+        "verse_end": 6
+      },
+      {
+        "psalm": 127,
+        "verse_start": 1,
+        "verse_end": 5
+      },
+      {
+        "psalm": 128,
+        "verse_start": 1,
+        "verse_end": 1
+      }
+    ]
+  },
+  {
+    "day": 322,
+    "date": "2026-04-11",
+    "book": "Proverbes",
+    "chapter": 28,
+    "verse_start": 11,
+    "verse_end": 19,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 323,
+    "date": "2026-04-12",
+    "book": "Ecclésiaste",
+    "chapter": 10,
+    "verse_start": 19,
+    "verse_end": 20,
+    "part_index": 8,
+    "part_count": 8
+  },
+  {
+    "day": 324,
+    "date": "2026-04-13",
+    "book": "Lamentations",
+    "chapter": 5,
+    "verse_start": 5,
+    "verse_end": 6,
+    "part_index": 3,
+    "part_count": 13
+  },
+  {
+    "day": 325,
+    "date": "2026-04-14",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 128,
+        "verse_start": 2,
+        "verse_end": 6
+      },
+      {
+        "psalm": 129,
+        "verse_start": 1,
+        "verse_end": 8
+      },
+      {
+        "psalm": 130,
+        "verse_start": 1,
+        "verse_end": 8
+      },
+      {
+        "psalm": 131,
+        "verse_start": 1,
+        "verse_end": 3
+      },
+      {
+        "psalm": 132,
+        "verse_start": 1,
+        "verse_end": 3
+      }
+    ]
+  },
+  {
+    "day": 326,
+    "date": "2026-04-15",
+    "book": "Proverbes",
+    "chapter": 28,
+    "verse_start": 20,
+    "verse_end": 28,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 327,
+    "date": "2026-04-16",
+    "book": "Ecclésiaste",
+    "chapter": 11,
+    "verse_start": 1,
+    "verse_end": 3,
+    "part_index": 1,
+    "part_count": 4
+  },
+  {
+    "day": 328,
+    "date": "2026-04-17",
+    "book": "Lamentations",
+    "chapter": 5,
+    "verse_start": 7,
+    "verse_end": 8,
+    "part_index": 4,
+    "part_count": 13
+  },
+  {
+    "day": 329,
+    "date": "2026-04-18",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 132,
+        "verse_start": 4,
+        "verse_end": 18
+      },
+      {
+        "psalm": 133,
+        "verse_start": 1,
+        "verse_end": 3
+      },
+      {
+        "psalm": 134,
+        "verse_start": 1,
+        "verse_end": 3
+      },
+      {
+        "psalm": 135,
+        "verse_start": 1,
+        "verse_end": 6
+      }
+    ]
+  },
+  {
+    "day": 330,
+    "date": "2026-04-19",
+    "book": "Proverbes",
+    "chapter": 29,
+    "verse_start": 1,
+    "verse_end": 9,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 331,
+    "date": "2026-04-20",
+    "book": "Ecclésiaste",
+    "chapter": 11,
+    "verse_start": 4,
+    "verse_end": 6,
+    "part_index": 2,
+    "part_count": 4
+  },
+  {
+    "day": 332,
+    "date": "2026-04-21",
+    "book": "Lamentations",
+    "chapter": 5,
+    "verse_start": 9,
+    "verse_end": 10,
+    "part_index": 5,
+    "part_count": 13
+  },
+  {
+    "day": 333,
+    "date": "2026-04-22",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 135,
+        "verse_start": 7,
+        "verse_end": 21
+      },
+      {
+        "psalm": 136,
+        "verse_start": 1,
+        "verse_end": 12
+      }
+    ]
+  },
+  {
+    "day": 334,
+    "date": "2026-04-23",
+    "book": "Proverbes",
+    "chapter": 29,
+    "verse_start": 10,
+    "verse_end": 18,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 335,
+    "date": "2026-04-24",
+    "book": "Ecclésiaste",
+    "chapter": 11,
+    "verse_start": 7,
+    "verse_end": 8,
+    "part_index": 3,
+    "part_count": 4
+  },
+  {
+    "day": 336,
+    "date": "2026-04-25",
+    "book": "Lamentations",
+    "chapter": 5,
+    "verse_start": 11,
+    "verse_end": 12,
+    "part_index": 6,
+    "part_count": 13
+  },
+  {
+    "day": 337,
+    "date": "2026-04-26",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 136,
+        "verse_start": 13,
+        "verse_end": 26
+      },
+      {
+        "psalm": 137,
+        "verse_start": 1,
+        "verse_end": 9
+      },
+      {
+        "psalm": 138,
+        "verse_start": 1,
+        "verse_end": 4
+      }
+    ]
+  },
+  {
+    "day": 338,
+    "date": "2026-04-27",
+    "book": "Proverbes",
+    "chapter": 29,
+    "verse_start": 19,
+    "verse_end": 27,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 339,
+    "date": "2026-04-28",
+    "book": "Ecclésiaste",
+    "chapter": 11,
+    "verse_start": 9,
+    "verse_end": 10,
+    "part_index": 4,
+    "part_count": 4
+  },
+  {
+    "day": 340,
+    "date": "2026-04-29",
+    "book": "Lamentations",
+    "chapter": 5,
+    "verse_start": 13,
+    "verse_end": 14,
+    "part_index": 7,
+    "part_count": 13
+  },
+  {
+    "day": 341,
+    "date": "2026-04-30",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 138,
+        "verse_start": 5,
+        "verse_end": 8
+      },
+      {
+        "psalm": 139,
+        "verse_start": 1,
+        "verse_end": 23
+      }
+    ]
+  },
+  {
+    "day": 342,
+    "date": "2026-05-01",
+    "book": "Proverbes",
+    "chapter": 30,
+    "verse_start": 1,
+    "verse_end": 11,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 343,
+    "date": "2026-05-02",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verse_start": 1,
+    "verse_end": 3,
+    "part_index": 1,
+    "part_count": 6
+  },
+  {
+    "day": 344,
+    "date": "2026-05-03",
+    "book": "Lamentations",
+    "chapter": 5,
+    "verse_start": 15,
+    "verse_end": 16,
+    "part_index": 8,
+    "part_count": 13
+  },
+  {
+    "day": 345,
+    "date": "2026-05-04",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 139,
+        "verse_start": 24,
+        "verse_end": 24
+      },
+      {
+        "psalm": 140,
+        "verse_start": 1,
+        "verse_end": 13
+      },
+      {
+        "psalm": 141,
+        "verse_start": 1,
+        "verse_end": 10
+      },
+      {
+        "psalm": 142,
+        "verse_start": 1,
+        "verse_end": 3
+      }
+    ]
+  },
+  {
+    "day": 346,
+    "date": "2026-05-05",
+    "book": "Proverbes",
+    "chapter": 30,
+    "verse_start": 12,
+    "verse_end": 22,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 347,
+    "date": "2026-05-06",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verse_start": 4,
+    "verse_end": 6,
+    "part_index": 2,
+    "part_count": 6
+  },
+  {
+    "day": 348,
+    "date": "2026-05-07",
+    "book": "Lamentations",
+    "chapter": 5,
+    "verse_start": 17,
+    "verse_end": 18,
+    "part_index": 9,
+    "part_count": 13
+  },
+  {
+    "day": 349,
+    "date": "2026-05-08",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 142,
+        "verse_start": 4,
+        "verse_end": 7
+      },
+      {
+        "psalm": 143,
+        "verse_start": 1,
+        "verse_end": 12
+      },
+      {
+        "psalm": 144,
+        "verse_start": 1,
+        "verse_end": 11
+      }
+    ]
+  },
+  {
+    "day": 350,
+    "date": "2026-05-09",
+    "book": "Proverbes",
+    "chapter": 30,
+    "verse_start": 23,
+    "verse_end": 33,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 351,
+    "date": "2026-05-10",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verse_start": 7,
+    "verse_end": 8,
+    "part_index": 3,
+    "part_count": 6
+  },
+  {
+    "day": 352,
+    "date": "2026-05-11",
+    "book": "Lamentations",
+    "chapter": 5,
+    "verse_start": 19,
+    "verse_end": 19,
+    "part_index": 10,
+    "part_count": 13
+  },
+  {
+    "day": 353,
+    "date": "2026-05-12",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 144,
+        "verse_start": 12,
+        "verse_end": 15
+      },
+      {
+        "psalm": 145,
+        "verse_start": 1,
+        "verse_end": 21
+      },
+      {
+        "psalm": 146,
+        "verse_start": 1,
+        "verse_end": 2
+      }
+    ]
+  },
+  {
+    "day": 354,
+    "date": "2026-05-13",
+    "book": "Proverbes",
+    "chapter": 31,
+    "verse_start": 1,
+    "verse_end": 11,
+    "part_index": 1,
+    "part_count": 3
+  },
+  {
+    "day": 355,
+    "date": "2026-05-14",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verse_start": 9,
+    "verse_end": 10,
+    "part_index": 4,
+    "part_count": 6
+  },
+  {
+    "day": 356,
+    "date": "2026-05-15",
+    "book": "Lamentations",
+    "chapter": 5,
+    "verse_start": 20,
+    "verse_end": 20,
+    "part_index": 11,
+    "part_count": 13
+  },
+  {
+    "day": 357,
+    "date": "2026-05-16",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 146,
+        "verse_start": 3,
+        "verse_end": 10
+      },
+      {
+        "psalm": 147,
+        "verse_start": 1,
+        "verse_end": 19
+      }
+    ]
+  },
+  {
+    "day": 358,
+    "date": "2026-05-17",
+    "book": "Proverbes",
+    "chapter": 31,
+    "verse_start": 12,
+    "verse_end": 21,
+    "part_index": 2,
+    "part_count": 3
+  },
+  {
+    "day": 359,
+    "date": "2026-05-18",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verse_start": 11,
+    "verse_end": 12,
+    "part_index": 5,
+    "part_count": 6
+  },
+  {
+    "day": 360,
+    "date": "2026-05-19",
+    "book": "Lamentations",
+    "chapter": 5,
+    "verse_start": 21,
+    "verse_end": 21,
+    "part_index": 12,
+    "part_count": 13
+  },
+  {
+    "day": 361,
+    "date": "2026-05-20",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 147,
+        "verse_start": 20,
+        "verse_end": 20
+      },
+      {
+        "psalm": 148,
+        "verse_start": 1,
+        "verse_end": 14
+      },
+      {
+        "psalm": 149,
+        "verse_start": 1,
+        "verse_end": 9
+      },
+      {
+        "psalm": 150,
+        "verse_start": 1,
+        "verse_end": 3
+      }
+    ]
+  },
+  {
+    "day": 362,
+    "date": "2026-05-21",
+    "book": "Proverbes",
+    "chapter": 31,
+    "verse_start": 22,
+    "verse_end": 31,
+    "part_index": 3,
+    "part_count": 3
+  },
+  {
+    "day": 363,
+    "date": "2026-05-22",
+    "book": "Ecclésiaste",
+    "chapter": 12,
+    "verse_start": 13,
+    "verse_end": 14,
+    "part_index": 6,
+    "part_count": 6
+  },
+  {
+    "day": 364,
+    "date": "2026-05-23",
+    "book": "Lamentations",
+    "chapter": 5,
+    "verse_start": 22,
+    "verse_end": 22,
+    "part_index": 13,
+    "part_count": 13
+  },
+  {
+    "day": 365,
+    "date": "2026-05-24",
+    "book": "Psaume",
+    "slices": [
+      {
+        "psalm": 150,
+        "verse_start": 4,
+        "verse_end": 6
+      }
+    ]
+  }
+]
