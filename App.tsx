@@ -162,27 +162,27 @@ const WelcomeScreen: React.FC<{ onStart: (date: Date) => void }> = ({ onStart })
   };
 
   return (
-    <div className="min-h-screen bg-slate-50 flex flex-col items-center justify-center p-6 text-center relative overflow-hidden">
-      <div className="absolute top-0 left-0 w-full h-64 bg-indigo-600 rounded-b-[3rem] shadow-lg z-0"></div>
-      
-      <div className="max-w-md w-full bg-white rounded-3xl shadow-2xl p-8 md:p-12 border border-slate-100 z-10 mt-10 animate-in fade-in zoom-in duration-500">
-        <div className="w-24 h-24 bg-indigo-50 rounded-full flex items-center justify-center mx-auto mb-8 text-indigo-600 shadow-inner ring-4 ring-white">
+    <div className="min-h-screen bg-paper dark:bg-night-canvas flex flex-col items-center justify-center p-6 text-center relative overflow-hidden">
+      <div className="absolute top-0 left-0 w-full h-64 bg-brand-500 dark:bg-brand-700 rounded-b-[3rem] shadow-card z-0"></div>
+
+      <div className="max-w-md w-full bg-paper-surface dark:bg-night-surface rounded-3xl shadow-card p-8 md:p-12 border border-paper-border dark:border-night-border z-10 mt-10 animate-in fade-in zoom-in duration-500">
+        <div className="w-24 h-24 bg-brand-50 dark:bg-night-surfaceAlt rounded-full flex items-center justify-center mx-auto mb-8 text-brand-500 dark:text-brand-300 ring-4 ring-paper-surface dark:ring-night-surface">
           <Book size={48} />
         </div>
-        
-        <h1 className="text-3xl font-extrabold text-slate-800 mb-4 tracking-tight">365 lumières</h1>
-        <p className="text-slate-600 mb-10 leading-relaxed">
+
+        <h1 className="text-3xl font-extrabold text-ink dark:text-night-ink mb-4 tracking-tight">365 lumières</h1>
+        <p className="text-ink-muted dark:text-night-inkMuted mb-10 leading-relaxed">
           Votre parcours quotidien à travers la Bible.
           Indiquez votre date de départ, et nous organiserons vos lectures Matin, Midi et Soir.
         </p>
-        
+
         <form onSubmit={handleSubmit} className="space-y-6 text-left">
           <div>
-            <label htmlFor="startDate" className="block text-sm font-semibold text-slate-700 mb-2 ml-1">
+            <label htmlFor="startDate" className="block text-sm font-semibold text-ink dark:text-night-ink mb-2 ml-1">
               Date de début
             </label>
             <div className="relative">
-              <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-slate-400">
+              <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-ink-muted dark:text-night-inkMuted">
                 <CalendarIcon size={18} />
               </div>
               <input
@@ -191,14 +191,14 @@ const WelcomeScreen: React.FC<{ onStart: (date: Date) => void }> = ({ onStart })
                 required
                 value={dateInput}
                 onChange={(e) => setDateInput(e.target.value)}
-                className="block w-full pl-10 pr-4 py-4 bg-slate-50 border border-slate-200 rounded-xl focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 outline-none transition-all font-medium text-slate-800 shadow-sm"
+                className="block w-full pl-10 pr-4 py-4 bg-paper dark:bg-night-canvas border border-paper-border dark:border-night-border rounded-xl focus:ring-2 focus:ring-brand-500 focus:border-brand-500 outline-none transition-all font-medium text-ink dark:text-night-ink"
               />
             </div>
           </div>
-          
+
           <button
             type="submit"
-            className="w-full bg-indigo-600 hover:bg-indigo-700 active:scale-[0.98] text-white font-bold py-4 rounded-xl shadow-lg hover:shadow-indigo-500/30 transition-all duration-200 flex items-center justify-center space-x-2 text-lg"
+            className="w-full bg-brand-500 hover:bg-brand-700 active:scale-[0.98] text-paper-surface font-bold py-4 rounded-xl shadow-soft transition-all duration-200 flex items-center justify-center space-x-2 text-lg"
           >
             <span>Commencer</span>
             <ArrowRight size={22} />
@@ -528,7 +528,7 @@ const App: React.FC = () => {
   // -- Render: Bible Text Reader Mode --
   if (viewMode === ViewMode.TEXT_VIEW && selectedReading) {
     return (
-      <div className="min-h-screen bg-slate-50">
+      <div className="min-h-screen bg-paper dark:bg-night-canvas">
         <BibleReader 
           reference={selectedReading.ref}
           title={selectedReading.title}
@@ -543,7 +543,7 @@ const App: React.FC = () => {
 
   // -- Main Dashboard Render --
   return (
-    <div className="min-h-screen bg-slate-50 text-slate-900 flex flex-col">
+    <div className="min-h-screen bg-paper dark:bg-night-canvas text-ink dark:text-night-ink flex flex-col">
       <MotivationOverlay
         isOpen={motivationState.open}
         onClose={() => setMotivationState(s => ({ ...s, open: false }))}
@@ -553,39 +553,39 @@ const App: React.FC = () => {
       />
 
       {/* Header */}
-      <header className="bg-white border-b border-slate-200 sticky top-0 z-30 shadow-sm">
+      <header className="bg-paper-surface dark:bg-night-surface border-b border-paper-border dark:border-night-border sticky top-0 z-30 shadow-soft">
         <div className="max-w-3xl mx-auto px-4 py-3">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2 cursor-pointer" onClick={goToToday}>
-              <div className="bg-indigo-600 text-white p-1.5 rounded-lg">
+              <div className="bg-brand-500 text-paper-surface p-1.5 rounded-lg">
                  <Book size={20} />
               </div>
               <div>
-                <h1 className="text-lg font-bold text-slate-800 leading-none">365 lumières</h1>
-                <span className="text-xs text-slate-500">Jour {currentActualDayNum} / 365</span>
+                <h1 className="text-lg font-bold text-ink dark:text-night-ink leading-none">365 lumières</h1>
+                <span className="text-xs text-ink-muted dark:text-night-inkMuted">Jour {currentActualDayNum} / 365</span>
               </div>
             </div>
-            
+
             <div className="flex items-center space-x-2">
                 {/* View Mode Toggles */}
-                <div className="bg-slate-100 p-1 rounded-lg flex mr-2">
-                    <button 
+                <div className="bg-paper-muted dark:bg-night-surfaceAlt p-1 rounded-lg flex mr-2">
+                    <button
                         onClick={() => setViewMode(ViewMode.READER)}
-                        className={`p-1.5 rounded-md transition-all ${viewMode === ViewMode.READER ? 'bg-white text-indigo-600 shadow-sm' : 'text-slate-400 hover:text-slate-600'}`}
+                        className={`p-1.5 rounded-md transition-all ${viewMode === ViewMode.READER ? 'bg-paper-surface dark:bg-night-surface text-brand-500 dark:text-brand-300 shadow-soft' : 'text-ink-soft dark:text-night-inkMuted hover:text-ink dark:hover:text-night-ink'}`}
                         title="Lecteur"
                     >
                         <Book size={18} />
                     </button>
-                    <button 
+                    <button
                         onClick={() => setViewMode(ViewMode.CALENDAR)}
-                        className={`p-1.5 rounded-md transition-all ${viewMode === ViewMode.CALENDAR ? 'bg-white text-indigo-600 shadow-sm' : 'text-slate-400 hover:text-slate-600'}`}
+                        className={`p-1.5 rounded-md transition-all ${viewMode === ViewMode.CALENDAR ? 'bg-paper-surface dark:bg-night-surface text-brand-500 dark:text-brand-300 shadow-soft' : 'text-ink-soft dark:text-night-inkMuted hover:text-ink dark:hover:text-night-ink'}`}
                         title="Semaines"
                     >
                         <List size={18} />
                     </button>
-                    <button 
+                    <button
                         onClick={() => setViewMode(ViewMode.STATS)}
-                        className={`p-1.5 rounded-md transition-all ${viewMode === ViewMode.STATS ? 'bg-white text-indigo-600 shadow-sm' : 'text-slate-400 hover:text-slate-600'}`}
+                        className={`p-1.5 rounded-md transition-all ${viewMode === ViewMode.STATS ? 'bg-paper-surface dark:bg-night-surface text-brand-500 dark:text-brand-300 shadow-soft' : 'text-ink-soft dark:text-night-inkMuted hover:text-ink dark:hover:text-night-ink'}`}
                         title="Statistiques"
                     >
                         <BarChart2 size={18} />
@@ -594,7 +594,7 @@ const App: React.FC = () => {
 
                 <button
                 onClick={() => setShowSettings(!showSettings)}
-                className="p-2 text-slate-400 hover:text-slate-600 hover:bg-slate-100 rounded-full transition-colors"
+                className="p-2 text-ink-soft dark:text-night-inkMuted hover:text-ink dark:hover:text-night-ink hover:bg-paper-muted dark:hover:bg-night-surfaceAlt rounded-full transition-colors"
                 title="Paramètres"
                 >
                 <Settings size={20} />
@@ -602,44 +602,44 @@ const App: React.FC = () => {
             </div>
           </div>
         </div>
-        
+
         {/* Progress Line */}
-        <div className="w-full h-1 bg-slate-100">
-            <div className="h-full bg-indigo-500 transition-all duration-700" style={{ width: `${progressPercentage}%` }}></div>
+        <div className="w-full h-1 bg-paper-muted dark:bg-night-surfaceAlt">
+            <div className="h-full bg-brass-600 dark:bg-brass-400 transition-all duration-700" style={{ width: `${progressPercentage}%` }}></div>
         </div>
       </header>
 
       {/* Settings Panel */}
       {showSettings && (
-        <div className="bg-white border-b border-slate-200 p-6 animate-in slide-in-from-top-2 shadow-inner">
+        <div className="bg-paper-surface dark:bg-night-surface border-b border-paper-border dark:border-night-border p-6 animate-in slide-in-from-top-2">
           <div className="max-w-3xl mx-auto">
             <div className="flex justify-between items-center mb-4">
-                <h3 className="font-semibold text-slate-800 flex items-center gap-2">
+                <h3 className="font-semibold text-ink dark:text-night-ink flex items-center gap-2">
                   <Settings size={16} /> Paramètres
                 </h3>
-                <span className="text-xs text-slate-400 bg-slate-100 px-2 py-1 rounded">v1.1</span>
+                <span className="text-xs text-ink-muted dark:text-night-inkMuted bg-paper-muted dark:bg-night-surfaceAlt px-2 py-1 rounded">v1.1</span>
             </div>
-            
+
             <div className="space-y-6">
               <div>
-                <label className="block text-sm font-medium text-slate-700 mb-2">Date de début du plan</label>
+                <label className="block text-sm font-medium text-ink dark:text-night-ink mb-2">Date de début du plan</label>
                 <input
                   type="date"
                   value={formatDateISO(startDateLocal)}
                   onChange={(e) => {
                      const d = parseDateInput(e.target.value);
                      if (!isNaN(d.getTime())) {
-                         handleStart(d); // Use handleStart to reset view logic too
+                         handleStart(d);
                      }
                   }}
-                  className="block w-full px-4 py-3 bg-slate-50 border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm transition-all"
+                  className="block w-full px-4 py-3 bg-paper dark:bg-night-canvas border border-paper-border dark:border-night-border rounded-xl focus:outline-none focus:ring-2 focus:ring-brand-500 focus:border-brand-500 sm:text-sm transition-all text-ink dark:text-night-ink"
                 />
               </div>
 
-              <div className="pt-4 border-t border-slate-100 flex flex-col sm:flex-row gap-4">
-                <button 
-                    onClick={handleResetApp} 
-                    className="text-sm font-medium text-red-600 hover:text-red-700 px-4 py-2 bg-red-50 rounded-lg hover:bg-red-100 transition-colors text-center flex-1"
+              <div className="pt-4 border-t border-paper-border dark:border-night-border flex flex-col sm:flex-row gap-4">
+                <button
+                    onClick={handleResetApp}
+                    className="text-sm font-medium text-brick hover:text-brick px-4 py-2 bg-brick-soft dark:bg-night-surfaceAlt rounded-lg hover:bg-brick-soft/80 transition-colors text-center flex-1"
                 >
                     Tout réinitialiser
                 </button>
@@ -656,25 +656,25 @@ const App: React.FC = () => {
             
             {/* Navigation Header for Reader */}
             <div className="flex items-center justify-between mb-6">
-                <button 
+                <button
                     onClick={goToPrevDay}
                     disabled={viewingDayNum <= 1}
-                    className="p-3 rounded-full bg-white border border-slate-200 text-slate-600 shadow-sm hover:bg-indigo-50 hover:text-indigo-600 disabled:opacity-30 disabled:hover:bg-white disabled:hover:text-slate-600 transition-all"
+                    className="p-3 rounded-full bg-paper-surface dark:bg-night-surface border border-paper-border dark:border-night-border text-ink-muted dark:text-night-inkMuted shadow-soft hover:bg-brand-50 dark:hover:bg-night-surfaceAlt hover:text-brand-500 dark:hover:text-brand-300 disabled:opacity-30 transition-all"
                 >
                     <ArrowLeft size={20} />
                 </button>
 
                 <div className="text-center cursor-pointer hover:opacity-70 transition-opacity" onClick={goToToday}>
-                    <span className="text-xs font-bold text-slate-400 uppercase tracking-wider block mb-1">Lecture en cours</span>
-                    <span className="text-lg font-semibold text-slate-800 capitalize block leading-none">
+                    <span className="text-xs font-bold text-ink-soft dark:text-night-inkMuted uppercase tracking-wider block mb-1">Lecture en cours</span>
+                    <span className="text-lg font-semibold text-ink dark:text-night-ink capitalize block leading-none">
                         {calculateDateForDay(viewingDayNum)}
                     </span>
                 </div>
 
-                <button 
+                <button
                     onClick={goToNextDay}
                     disabled={viewingDayNum >= 365}
-                    className="p-3 rounded-full bg-white border border-slate-200 text-slate-600 shadow-sm hover:bg-indigo-50 hover:text-indigo-600 disabled:opacity-30 disabled:hover:bg-white disabled:hover:text-slate-600 transition-all"
+                    className="p-3 rounded-full bg-paper-surface dark:bg-night-surface border border-paper-border dark:border-night-border text-ink-muted dark:text-night-inkMuted shadow-soft hover:bg-brand-50 dark:hover:bg-night-surfaceAlt hover:text-brand-500 dark:hover:text-brand-300 disabled:opacity-30 transition-all"
                 >
                     <ArrowRight size={20} />
                 </button>
@@ -697,9 +697,9 @@ const App: React.FC = () => {
                          />
                          
                          {viewingDayNum !== currentActualDayNum && (
-                             <button 
+                             <button
                                 onClick={goToToday}
-                                className="mx-auto mt-6 flex items-center space-x-2 text-sm font-medium text-slate-500 hover:text-indigo-600 px-4 py-2 bg-white rounded-full shadow-sm border border-slate-200 transition-all"
+                                className="mx-auto mt-6 flex items-center space-x-2 text-sm font-medium text-ink-muted dark:text-night-inkMuted hover:text-brand-500 dark:hover:text-brand-300 px-4 py-2 bg-paper-surface dark:bg-night-surface rounded-full shadow-soft border border-paper-border dark:border-night-border transition-all"
                              >
                                  <RotateCcw size={14} />
                                  <span>Revenir à aujourd'hui (Jour {currentActualDayNum})</span>
@@ -707,7 +707,7 @@ const App: React.FC = () => {
                          )}
                      </div>
                 ) : (
-                    <div className="text-center p-10">
+                    <div className="text-center p-10 text-ink-muted dark:text-night-inkMuted">
                         <p>Contenu non disponible pour ce jour.</p>
                     </div>
                 )}
@@ -733,23 +733,22 @@ const App: React.FC = () => {
                  const isCurrentWeek = weekDays.some(dayKey => getDayNumber(dayKey) === currentActualDayNum);
                  
                  return (
-                     <div 
-                        key={weekIndex} 
-                        // Attach ref to the current week to enable scrolling
+                     <div
+                        key={weekIndex}
                         ref={isCurrentWeek ? activeWeekRef : null}
-                        className="bg-white rounded-2xl border border-slate-100 shadow-sm overflow-hidden scroll-mt-24"
+                        className="bg-paper-surface dark:bg-night-surface rounded-2xl border border-paper-border dark:border-night-border shadow-soft overflow-hidden scroll-mt-24"
                      >
                          {/* Week Header */}
-                         <div className="bg-slate-50/50 px-5 py-3 border-b border-slate-100 flex items-center justify-between">
+                         <div className="bg-paper-muted/50 dark:bg-night-surfaceAlt/40 px-5 py-3 border-b border-paper-border dark:border-night-border flex items-center justify-between">
                             <div>
-                                <h3 className={`font-bold text-base ${isCurrentWeek ? 'text-indigo-700' : 'text-slate-700'}`}>
+                                <h3 className={`font-bold text-base ${isCurrentWeek ? 'text-brand-500 dark:text-brand-300' : 'text-ink dark:text-night-ink'}`}>
                                     Semaine {weekIndex + 1}
                                 </h3>
-                                <p className="text-xs text-slate-500 mt-0.5">
+                                <p className="text-xs text-ink-muted dark:text-night-inkMuted mt-0.5">
                                     du {formatRangeDate(startDateOfWeek)} au {formatRangeDate(endDateOfWeek)}
                                 </p>
                             </div>
-                            <span className={`text-xs font-bold px-2.5 py-1 rounded-full ${completedDaysCount === 7 ? 'bg-green-100 text-green-700' : 'bg-slate-100 text-slate-600'}`}>
+                            <span className={`text-xs font-bold px-2.5 py-1 rounded-full ${completedDaysCount === 7 ? 'bg-olive-soft dark:bg-olive-darkSoft text-olive' : 'bg-paper-muted dark:bg-night-surfaceAlt text-ink-muted dark:text-night-inkMuted'}`}>
                                 {completedDaysCount}/7 jours validés
                             </span>
                          </div>
@@ -767,22 +766,25 @@ const App: React.FC = () => {
                                  const isComplete = !!dayStat?.isValidated;
                                  const dayDate = dayStat ? parseISODate(dayStat.date) : getDateObjForDay(dayNum);
                                  
-                                 // Determine card styling based on progress
-                                 let bgClass = 'bg-white';
-                                 let borderClass = 'border-slate-200';
-                                 
+                                 // Day-chip styling — palette-aligned with the slot tints.
+                                 //   1 done = aube (dawn warm wash)
+                                 //   2 done = brass-soft (almost there)
+                                 //   3 done = olive (validated)
+                                 let bgClass = 'bg-paper-surface dark:bg-night-surface';
+                                 let borderClass = 'border-paper-border dark:border-night-border';
+
                                  if (isToday) {
-                                     bgClass = 'bg-indigo-50/50';
-                                     borderClass = 'border-indigo-500 shadow-md shadow-indigo-100 ring-1 ring-indigo-500';
+                                     bgClass = 'bg-brand-50 dark:bg-night-surfaceAlt';
+                                     borderClass = 'border-brand-500 ring-1 ring-brand-500';
                                  } else if (isComplete) {
-                                     bgClass = 'bg-green-50';
-                                     borderClass = 'border-green-200 hover:border-green-300';
+                                     bgClass = 'bg-olive-soft dark:bg-olive-darkSoft';
+                                     borderClass = 'border-olive/40 hover:border-olive/60';
                                  } else if (doneCount === 1) {
-                                     bgClass = 'bg-orange-50';
-                                     borderClass = 'border-orange-200 hover:border-orange-300';
+                                     bgClass = 'bg-slot-dawn dark:bg-slot-dawnDark';
+                                     borderClass = 'border-brass-100 dark:border-brass-soft';
                                  } else if (doneCount === 2) {
-                                     bgClass = 'bg-yellow-50';
-                                     borderClass = 'border-yellow-200 hover:border-yellow-300';
+                                     bgClass = 'bg-brass-100 dark:bg-brass-soft';
+                                     borderClass = 'border-brass-400/30 dark:border-brass-400/30';
                                  }
 
                                  return (
@@ -795,43 +797,39 @@ const App: React.FC = () => {
                                         aria-label={`Jour ${dayNum} - ${formatLongDate(dayDate)} - ${doneCount} lectures sur 3 complétées`}
                                         className={`
                                             group relative flex flex-col items-center justify-between p-3 rounded-xl transition-all duration-200 border text-center h-28
-                                            ${bgClass} ${borderClass} hover:shadow-md
+                                            ${bgClass} ${borderClass} hover:shadow-soft
                                         `}
                                      >
                                          {isToday && (
-                                             <span className="absolute -top-2 -right-2 bg-indigo-600 text-white text-[9px] font-bold px-2 py-0.5 rounded-full shadow-sm z-10">
+                                             <span className="absolute -top-2 -right-2 bg-brand-500 text-paper-surface text-[9px] font-bold px-2 py-0.5 rounded-full shadow-soft z-10">
                                                  Aujourd'hui
                                              </span>
                                          )}
 
                                          <div className="w-full">
-                                             <span className={`text-lg font-extrabold block leading-tight ${isComplete ? 'text-green-700' : 'text-slate-700'}`}>
+                                             <span className={`text-lg font-extrabold block leading-tight ${isComplete ? 'text-olive' : 'text-ink dark:text-night-ink'}`}>
                                                  {dayNum}
                                              </span>
-                                             <span className="text-[10px] font-medium text-slate-400 uppercase tracking-wide block mt-1">
+                                             <span className="text-[10px] font-medium text-ink-soft dark:text-night-inkMuted uppercase tracking-wide block mt-1">
                                                  {formatShortDate(dayDate)}
                                              </span>
                                          </div>
-                                         
-                                         {/* Status Dots */}
+
+                                         {/* Status dots — olive when done, neutral when pending */}
                                          <div className="flex items-center gap-1.5 mt-auto">
-                                             {/* Matin */}
-                                             <div className={`w-2.5 h-2.5 rounded-full border-0 transition-colors ${dayProgress.matin ? 'bg-green-500' : 'bg-slate-200'}`} title="Matin"></div>
-                                             {/* Midi */}
-                                             <div className={`w-2.5 h-2.5 rounded-full border-0 transition-colors ${dayProgress.midi ? 'bg-green-500' : 'bg-slate-200'}`} title="Midi"></div>
-                                             {/* Soir */}
-                                             <div className={`w-2.5 h-2.5 rounded-full border-0 transition-colors ${dayProgress.soir ? 'bg-green-500' : 'bg-slate-200'}`} title="Soir"></div>
+                                             <div className={`w-2.5 h-2.5 rounded-full transition-colors ${dayProgress.matin ? 'bg-olive' : 'bg-paper-border dark:bg-night-border'}`} title="Matin"></div>
+                                             <div className={`w-2.5 h-2.5 rounded-full transition-colors ${dayProgress.midi ? 'bg-olive' : 'bg-paper-border dark:bg-night-border'}`} title="Midi"></div>
+                                             <div className={`w-2.5 h-2.5 rounded-full transition-colors ${dayProgress.soir ? 'bg-olive' : 'bg-paper-border dark:bg-night-border'}`} title="Soir"></div>
                                          </div>
 
-                                         {/* Tooltip on Hover (Desktop) */}
-                                         <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-48 bg-slate-800 text-white text-xs rounded-lg py-2 px-3 shadow-xl opacity-0 group-hover:opacity-100 pointer-events-none transition-opacity z-20 hidden sm:block">
+                                         {/* Tooltip on hover (desktop) */}
+                                         <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-48 bg-ink dark:bg-night-surfaceAlt text-paper-surface dark:text-night-ink text-xs rounded-lg py-2 px-3 shadow-card opacity-0 group-hover:opacity-100 pointer-events-none transition-opacity z-20 hidden sm:block">
                                              <div className="text-left space-y-1">
-                                                 <p><span className="text-slate-400">Matin:</span> {dayPlan.matin_ancien_testament}</p>
-                                                 <p><span className="text-slate-400">Midi:</span> {dayPlan.midi_sagesse_poesie}</p>
-                                                 <p><span className="text-slate-400">Soir:</span> {dayPlan.soir_nouveau_testament}</p>
+                                                 <p><span className="text-paper-surface/60 dark:text-night-inkMuted">Matin:</span> {dayPlan.matin_ancien_testament}</p>
+                                                 <p><span className="text-paper-surface/60 dark:text-night-inkMuted">Midi:</span> {dayPlan.midi_sagesse_poesie}</p>
+                                                 <p><span className="text-paper-surface/60 dark:text-night-inkMuted">Soir:</span> {dayPlan.soir_nouveau_testament}</p>
                                              </div>
-                                             {/* Arrow */}
-                                             <div className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-slate-800"></div>
+                                             <div className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-ink dark:border-t-night-surfaceAlt"></div>
                                          </div>
                                      </button>
                                  );

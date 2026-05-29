@@ -1,6 +1,6 @@
 import React from 'react';
 import { DayPlan, DayProgress } from '../types';
-import { Sun, Moon, BookOpen, Square, CheckSquare, ChevronRight, CheckCircle2 } from 'lucide-react';
+import { Sun, Moon, BookOpen, ChevronRight, Check, CheckCircle2, PenLine } from 'lucide-react';
 import { hasNote, PartKey } from '../services/notesStorage';
 
 interface ReadingCardProps {
@@ -13,6 +13,81 @@ interface ReadingCardProps {
   onMarkAllDone: (dayId: string) => void;
   onOpenReading: (reading: { ref: string; title: string; dayKey: string; partKey: PartKey; dayNumber: number }) => void;
 }
+
+/**
+ * One reading slot (matin / midi / soir) styled as a bento tile.
+ * Each slot carries its own time-of-day tint so the day card reads visually
+ * like a rhythm — dawn / noon / dusk — rather than a flat list.
+ */
+const ReadingSection: React.FC<{
+  title: string;
+  icon: React.ComponentType<{ size?: number; className?: string }>;
+  content: string;
+  partKey: PartKey;
+  dayId: string;
+  dayNumber: number;
+  dayKey: string;
+  isDone: boolean;
+  /** Light-mode tint */
+  tint: string;
+  /** Dark-mode tint */
+  darkTint: string;
+  onToggle: () => void;
+  onOpen: () => void;
+}> = ({
+  title, icon: Icon, content, partKey, dayKey,
+  isDone, tint, darkTint, onToggle, onOpen
+}) => {
+  const showNoteBadge = hasNote(dayKey, partKey);
+
+  return (
+    <div className={`flex items-stretch rounded-2xl overflow-hidden transition-colors ${tint} ${darkTint}`}>
+      <button
+        onClick={onOpen}
+        type="button"
+        className="flex-1 flex items-start gap-4 p-4 text-left group focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-500/40 rounded-2xl"
+      >
+        <span className="mt-0.5 inline-flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-paper-surface/60 text-ink/70 dark:bg-night-surface/40 dark:text-night-ink/70">
+          <Icon size={20} />
+        </span>
+        <div className="min-w-0 flex-1">
+          <div className="flex items-center gap-2">
+            <span className={`text-[11px] font-semibold uppercase tracking-wider ${isDone ? 'text-ink/50 dark:text-night-ink/50' : 'text-ink/70 dark:text-night-ink/70'}`}>
+              {title}
+            </span>
+            {showNoteBadge && (
+              <span className="inline-flex items-center gap-1 rounded-full bg-brass-100 dark:bg-brass-soft px-2 py-0.5 text-[10px] font-semibold text-brass-600 dark:text-brass-400">
+                <PenLine size={10} /> Note
+              </span>
+            )}
+            <ChevronRight size={14} className="ml-auto text-ink/30 dark:text-night-ink/30 transition-transform group-hover:translate-x-1" />
+          </div>
+          <p
+            className={`mt-1 font-serif text-[17px] leading-snug ${isDone ? 'text-ink/50 line-through decoration-ink/30 dark:text-night-ink/50' : 'text-ink dark:text-night-ink'}`}
+          >
+            {content}
+          </p>
+        </div>
+      </button>
+      <button
+        onClick={onToggle}
+        type="button"
+        aria-label={isDone ? `Désactiver ${title}` : `Valider ${title}`}
+        className="w-14 flex items-center justify-center focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-500/40"
+      >
+        <span
+          className={`inline-flex h-8 w-8 items-center justify-center rounded-lg border-2 transition-colors ${
+            isDone
+              ? 'border-olive bg-olive text-paper-surface'
+              : 'border-ink/30 dark:border-night-ink/30 bg-transparent text-transparent hover:border-olive/70'
+          }`}
+        >
+          <Check size={18} />
+        </span>
+      </button>
+    </div>
+  );
+};
 
 export const ReadingCard: React.FC<ReadingCardProps> = ({
   dayId,
@@ -27,123 +102,91 @@ export const ReadingCard: React.FC<ReadingCardProps> = ({
   const isFullyComplete = progress.matin && progress.midi && progress.soir;
   const dayKey = dayId;
 
-  const ReadingSection = ({ 
-    title, 
-    icon: Icon, 
-    content, 
-    partKey, 
-    colorClass, 
-    bgClass 
-  }: { 
-    title: string, 
-    icon: any, 
-    content: string, 
-    partKey: PartKey,
-    colorClass: string,
-    bgClass: string
-  }) => (
-    <div 
-      className={`flex items-stretch rounded-xl transition-all border overflow-hidden ${progress[partKey] ? 'bg-slate-50 border-slate-200' : 'bg-white border-slate-100 hover:border-indigo-200 shadow-sm hover:shadow-md'}`}
-    >
-      {/* Clickable Main Area -> Opens Reader */}
-      <div 
-        onClick={() => onOpenReading({ ref: content, title, dayKey, partKey, dayNumber })}
-        className="flex-1 flex items-start p-4 cursor-pointer group"
-      >
-        <div className={`p-2.5 rounded-xl mt-1 shrink-0 transition-colors ${progress[partKey] ? 'bg-slate-200 text-slate-400' : bgClass + ' ' + colorClass}`}>
-          <Icon size={20} />
-        </div>
-        <div className="ml-4 flex-1 min-w-0">
-          <div className="flex justify-between items-center mb-1">
-            <span className={`text-xs font-bold uppercase tracking-wider ${progress[partKey] ? 'text-slate-400' : 'text-slate-500'}`}>{title}</span>
-            <div className="flex items-center gap-2">
-              {hasNote(dayKey, partKey) && (
-                <span className="rounded-full bg-sky-100 px-2 py-0.5 text-[11px] font-semibold text-sky-600 flex items-center gap-1">
-                  ✍️ Note
-                </span>
-              )}
-              <ChevronRight size={16} className={`text-slate-300 transition-transform group-hover:translate-x-1 ${progress[partKey] ? 'hidden' : ''}`} />
-            </div>
-          </div>
-          <p className={`font-serif text-lg leading-relaxed transition-colors ${progress[partKey] ? 'text-slate-400 line-through decoration-slate-300' : 'text-slate-800 group-hover:text-indigo-900'}`}>
-            {content}
-          </p>
-        </div>
-      </div>
-
-      {/* Checkbox Area -> Toggles Progress */}
-      <div 
-        onClick={(e) => {
-          e.stopPropagation();
-          onTogglePart(dayId, partKey);
-        }}
-        className={`w-16 flex items-center justify-center border-l cursor-pointer transition-colors ${progress[partKey] ? 'border-slate-200 hover:bg-slate-100' : 'border-slate-50 bg-slate-50 hover:bg-green-50'}`}
-      >
-        <div className={`${progress[partKey] ? 'text-green-500' : 'text-slate-300 hover:text-green-400'}`}>
-          {progress[partKey] ? <CheckSquare size={24} /> : <Square size={24} />}
-        </div>
-      </div>
-    </div>
-  );
-
   return (
-    <div className={`bg-white rounded-3xl shadow-xl shadow-slate-200/50 border border-slate-100 overflow-hidden transition-all duration-500 ${isFullyComplete ? 'ring-2 ring-green-500/20' : ''}`}>
+    <div className={`rounded-3xl bg-paper-surface dark:bg-night-surface border border-paper-border dark:border-night-border shadow-card overflow-hidden transition-all`}>
       {/* Header */}
-      <div className="bg-white p-6 pb-2 border-b border-slate-50">
-        <div className="flex items-center justify-between">
-          <div>
-            <div className="flex items-center gap-3">
-                <h2 className="text-2xl font-extrabold text-slate-800 tracking-tight">Jour {dayNumber}</h2>
-                
-                {/* Bouton Tout Cocher */}
-                {!isFullyComplete && (
-                    <button 
-                        onClick={() => onMarkAllDone(dayId)}
-                        className="flex items-center gap-1.5 px-3 py-1.5 bg-indigo-50 hover:bg-indigo-100 text-indigo-700 rounded-full text-xs font-bold transition-colors shadow-sm border border-indigo-100 group"
-                        title="Marquer tout comme lu"
-                    >
-                        <CheckCircle2 size={14} className="group-hover:scale-110 transition-transform" />
-                        <span>Tout valider</span>
-                    </button>
-                )}
-            </div>
-            <p className="text-sm font-medium text-slate-500 mt-1">{plan.jour_semaine} - {date}</p>
+      <div className="px-6 pt-6 pb-4 border-b border-paper-border/60 dark:border-night-border/60">
+        <div className="flex items-start justify-between gap-3">
+          <div className="min-w-0">
+            <h2 className="text-2xl font-extrabold tracking-tight text-ink dark:text-night-ink">
+              Jour {dayNumber}
+            </h2>
+            <p className="mt-0.5 text-sm text-ink-muted dark:text-night-inkMuted truncate">
+              {plan.jour_semaine ? `${plan.jour_semaine} – ${date}` : date}
+            </p>
           </div>
-          {isFullyComplete && (
-            <span className="bg-green-100 text-green-700 text-xs font-bold px-3 py-1 rounded-full animate-in fade-in zoom-in flex items-center gap-1">
-              <CheckCircle2 size={12} /> Terminé
+
+          {isFullyComplete ? (
+            <span className="inline-flex shrink-0 items-center gap-1 rounded-full bg-olive-soft dark:bg-olive-darkSoft px-3 py-1 text-xs font-semibold text-olive">
+              <CheckCircle2 size={14} /> Terminé
             </span>
+          ) : (
+            <button
+              onClick={() => onMarkAllDone(dayId)}
+              className="inline-flex shrink-0 items-center gap-1.5 rounded-full px-3 py-1.5 text-xs font-semibold text-brass-600 dark:text-brass-400 hover:bg-brass-100 dark:hover:bg-brass-soft transition-colors"
+              title="Marquer tout comme lu"
+            >
+              <CheckCircle2 size={14} /> Tout valider
+            </button>
           )}
         </div>
       </div>
 
-      {/* Readings */}
-      <div className="p-4 space-y-3 pb-6">
-        <ReadingSection 
-          title="Matin (A.T.)" 
-          icon={Sun} 
-          content={plan.matin_ancien_testament} 
+      {/* Readings — bento with time-of-day accents */}
+      <div className="px-4 pb-5 pt-4 space-y-3">
+        <ReadingSection
+          title="Matin (A.T.)"
+          icon={Sun}
+          content={plan.matin_ancien_testament}
           partKey="matin"
-          colorClass="text-orange-600"
-          bgClass="bg-orange-50"
+          dayId={dayId}
+          dayNumber={dayNumber}
+          dayKey={dayKey}
+          isDone={!!progress.matin}
+          tint="bg-slot-dawn"
+          darkTint="dark:bg-slot-dawnDark"
+          onToggle={() => onTogglePart(dayId, 'matin')}
+          onOpen={() => onOpenReading({
+            ref: plan.matin_ancien_testament,
+            title: 'Matin (A.T.)',
+            dayKey, partKey: 'matin', dayNumber
+          })}
         />
-        
-        <ReadingSection 
-          title="Midi (Sagesse)" 
-          icon={BookOpen} 
-          content={plan.midi_sagesse_poesie} 
+        <ReadingSection
+          title="Midi (Sagesse)"
+          icon={BookOpen}
+          content={plan.midi_sagesse_poesie}
           partKey="midi"
-          colorClass="text-indigo-600"
-          bgClass="bg-indigo-50"
+          dayId={dayId}
+          dayNumber={dayNumber}
+          dayKey={dayKey}
+          isDone={!!progress.midi}
+          tint="bg-slot-noon"
+          darkTint="dark:bg-slot-noonDark"
+          onToggle={() => onTogglePart(dayId, 'midi')}
+          onOpen={() => onOpenReading({
+            ref: plan.midi_sagesse_poesie,
+            title: 'Midi (Sagesse)',
+            dayKey, partKey: 'midi', dayNumber
+          })}
         />
-
-        <ReadingSection 
-          title="Soir (N.T.)" 
-          icon={Moon} 
-          content={plan.soir_nouveau_testament} 
+        <ReadingSection
+          title="Soir (N.T.)"
+          icon={Moon}
+          content={plan.soir_nouveau_testament}
           partKey="soir"
-          colorClass="text-slate-700"
-          bgClass="bg-slate-100"
+          dayId={dayId}
+          dayNumber={dayNumber}
+          dayKey={dayKey}
+          isDone={!!progress.soir}
+          tint="bg-slot-dusk"
+          darkTint="dark:bg-slot-duskDark"
+          onToggle={() => onTogglePart(dayId, 'soir')}
+          onOpen={() => onOpenReading({
+            ref: plan.soir_nouveau_testament,
+            title: 'Soir (N.T.)',
+            dayKey, partKey: 'soir', dayNumber
+          })}
         />
       </div>
     </div>

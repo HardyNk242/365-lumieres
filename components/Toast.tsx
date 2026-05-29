@@ -11,9 +11,7 @@ interface ToastProps {
 export const Toast: React.FC<ToastProps> = ({ message, reference, isVisible, onClose }) => {
   useEffect(() => {
     if (isVisible) {
-      const timer = setTimeout(() => {
-        onClose();
-      }, 4000); // Auto dismiss after 4 seconds
+      const timer = setTimeout(() => onClose(), 4000);
       return () => clearTimeout(timer);
     }
   }, [isVisible, onClose]);
@@ -22,8 +20,8 @@ export const Toast: React.FC<ToastProps> = ({ message, reference, isVisible, onC
 
   return (
     <div className="fixed bottom-6 right-4 md:bottom-8 md:right-8 z-50 animate-in slide-in-from-bottom-5 fade-in duration-500 max-w-sm w-[calc(100%-2rem)] md:w-auto">
-      <div className="bg-green-50 border border-green-200 text-green-900 rounded-2xl shadow-xl p-4 flex items-start gap-3 relative">
-        <div className="bg-green-100 p-2 rounded-full shrink-0 text-green-600">
+      <div className="bg-olive-soft dark:bg-olive-darkSoft border border-olive/30 text-ink dark:text-night-ink rounded-2xl shadow-card p-4 flex items-start gap-3 relative">
+        <div className="bg-olive/20 p-2 rounded-full shrink-0 text-olive">
           <CheckCircle2 size={20} />
         </div>
         <div className="pr-6">
@@ -31,14 +29,15 @@ export const Toast: React.FC<ToastProps> = ({ message, reference, isVisible, onC
             {message}
           </p>
           {reference && (
-            <p className="text-xs text-green-700 mt-1 font-serif italic">
+            <p className="text-xs text-olive mt-1 font-serif italic">
               {reference}
             </p>
           )}
         </div>
-        <button 
+        <button
           onClick={onClose}
-          className="absolute top-2 right-2 text-green-400 hover:text-green-600 p-1 transition-colors"
+          aria-label="Fermer"
+          className="absolute top-2 right-2 text-olive/60 hover:text-olive p-1 transition-colors"
         >
           <X size={16} />
         </button>
