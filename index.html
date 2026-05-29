@@ -4,7 +4,90 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>365 lumières</title>
+    <meta name="description" content="Votre parcours quotidien à travers la Bible — Matin, Midi, Soir." />
+    <meta name="theme-color" content="#FAF7F2" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#15120E" media="(prefers-color-scheme: dark)" />
     <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      // 365 lumières — warm spiritual palette aligned with the Android app.
+      // Token roles:
+      //   brand.*  : ink indigo (primary)
+      //   brass.*  : CTA / accents / verse numbers / chapter rules
+      //   paper.*  : warm canvas + ivory surfaces (light mode)
+      //   ink.*    : foreground text (light mode)
+      //   night.*  : dark-mode surfaces & foregrounds
+      //   slot.*   : per-portion accents (matin / midi / soir)
+      //   olive    : success / validated
+      //   brick    : error
+      tailwind.config = {
+        darkMode: 'media',
+        theme: {
+          extend: {
+            colors: {
+              brand: {
+                50:  '#F2EEFB',
+                100: '#E8E4F4',
+                300: '#AFA6D1',
+                500: '#5B4E8F',
+                700: '#3F3877',
+                900: '#2C2655'
+              },
+              brass: {
+                100: '#F6EBC9',
+                400: '#D4A93D',
+                600: '#B8860B',
+                800: '#7A5A07'
+              },
+              paper: {
+                DEFAULT: '#FAF7F2',
+                surface: '#FFFFFF',
+                muted: '#F1ECE2',
+                border: '#E8E2D6'
+              },
+              ink: {
+                DEFAULT: '#1F1B16',
+                muted: '#5A544A',
+                soft: '#8C8579'
+              },
+              night: {
+                canvas: '#15120E',
+                surface: '#1F1C17',
+                surfaceAlt: '#2A2620',
+                border: '#35302A',
+                ink: '#EFEAE0',
+                inkMuted: '#B6AFA1'
+              },
+              slot: {
+                dawn: '#F6E6C6',
+                noon: '#E2D5C0',
+                dusk: '#D9D2E1',
+                dawnDark: '#332918',
+                noonDark: '#2D261B',
+                duskDark: '#23202B'
+              },
+              olive: {
+                DEFAULT: '#6B8E4E',
+                soft:    '#CFE0BC',
+                darkSoft:'#273020'
+              },
+              brick: {
+                DEFAULT: '#A63D40',
+                soft:    '#F5D9D9'
+              }
+            },
+            fontFamily: {
+              sans:  ['Inter', 'system-ui', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'sans-serif'],
+              serif: ['Merriweather', 'Times New Roman', 'serif']
+            },
+            boxShadow: {
+              soft: '0 4px 14px rgba(31, 27, 22, 0.06)',
+              card: '0 6px 22px rgba(31, 27, 22, 0.08)',
+              softDark: '0 4px 14px rgba(0, 0, 0, 0.4)'
+            }
+          }
+        }
+      };
+    </script>
 
     <script type="importmap">
 {
@@ -16,10 +99,10 @@
   }
 }
 </script>
-    <script type="module" crossorigin src="/365-lumieres/assets/index-B2xD2DST.js"></script>
-    <link rel="stylesheet" crossorigin href="/365-lumieres/assets/index-CdodTir9.css">
+    <script type="module" crossorigin src="/assets/index-BWC2Xypv.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-DN_yllx-.css">
   </head>
-  <body class="bg-slate-50 text-slate-900 antialiased">
+  <body class="bg-paper text-ink dark:bg-night-canvas dark:text-night-ink antialiased font-sans">
     <div id="root"></div>
   </body>
 </html>
